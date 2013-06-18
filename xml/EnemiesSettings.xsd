@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EnemiesSettings" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="EnemiesSettings" msdata:IsDataSet="true" msdata:Locale="en-US">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Enemy">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" type="xs:string" minOccurs="0" />
+              <xs:element name="Type" type="xs:string" minOccurs="0" />
+              <xs:element name="Level" type="xs:string" minOccurs="0" />
+              <xs:element name="DefaultAttackDistance" type="xs:string" minOccurs="0" />
+              <xs:element name="DefaultAttackAngle" type="xs:string" minOccurs="0" />
+              <xs:element name="DefaultAttackSpeed1" type="xs:string" minOccurs="0" />
+              <xs:element name="DefaultAttackSpeed2" type="xs:string" minOccurs="0" />
+              <xs:element name="DefaultAttackSpeed3" type="xs:string" minOccurs="0" />
+              <xs:element name="MovingSpeed" type="xs:string" minOccurs="0" />
+              <xs:element name="MaxHP" type="xs:string" minOccurs="0" />
+              <xs:element name="AttackPoint" type="xs:string" minOccurs="0" />
+              <xs:element name="BlockPoint" type="xs:string" minOccurs="0" />
+              <xs:element name="AccuracyRate" type="xs:string" minOccurs="0" />
+              <xs:element name="ExperiencePoint" type="xs:string" minOccurs="0" />
+              <xs:element name="CostumeRate" type="xs:string" minOccurs="0" />
+              <xs:element name="CostumeIndex1" type="xs:string" minOccurs="0" />
+              <xs:element name="CostumeIndex2" type="xs:string" minOccurs="0" />
+              <xs:element name="DropItemIndex" type="xs:string" minOccurs="0" />
+              <xs:element name="AIIndex" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

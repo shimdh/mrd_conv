@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" ?>
+<ItemWarfStonesSettings>
+	<ItemWarfStone>
+		<Index>WAF_011</Index>
+		<Name>마이어드 1번 퍼즐 조각</Name>
+		<ZoneIndex>ZON_011</ZoneIndex>
+		<IconName></IconName>
+		<Description>1-1 지역의 메모라이나 보석</Description>
+	</ItemWarfStone>
+	<ItemWarfStone>
+		<Index>WAF_012</Index>
+		<Name>마이어드 2번 퍼즐 조각</Name>
+		<ZoneIndex>ZON_012</ZoneIndex>
+		<IconName></IconName>
+		<Description>1-2 지역의 메모라이나 보석</Description>
+	</ItemWarfStone>
+	<ItemWarfStone>
+		<Index>WAF_013</Index>
+		<Name>마이어드 3번 퍼즐 조각</Name>
+		<ZoneIndex>ZON_013</ZoneIndex>
+		<IconName></IconName>
+		<Description>1-3 지역의 메모라이나 보석</Description>
+	</ItemWarfStone>
+	<ItemWarfStone>
+		<Index>WAF_014</Index>
+		<Name>마이어드 4번 퍼즐 조각</Name>
+		<ZoneIndex>ZON_014</ZoneIndex>
+		<IconName></IconName>
+		<Description>1-4 지역의 메모라이나 보석</Description>
+	</ItemWarfStone>
+	<ItemWarfStone>
+		<Index>WAF_021</Index>
+		<Name>마이어드 5번 퍼즐 조각</Name>
+		<ZoneIndex>ZON_021</ZoneIndex>
+		<IconName></IconName>
+		<Description>2-1 지역의 메모라이나 보석</Description>
+	</ItemWarfStone>
+</ItemWarfStonesSettings>

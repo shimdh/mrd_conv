@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SkillStonesSettings" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="SkillStonesSettings" msdata:IsDataSet="true" msdata:Locale="en-US">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SkillStone">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Index" type="xs:string" minOccurs="0" />
+              <xs:element name="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="SkillStoneLevel" type="xs:string" minOccurs="0" />
+              <xs:element name="WideRangeSkillRecoveryBeadRatio" type="xs:string" minOccurs="0" />
+              <xs:element name="WideRangeSkillDownTime" type="xs:string" minOccurs="0" />
+              <xs:element name="WideRangeSkillCoolDownTime" type="xs:string" minOccurs="0" />
+              <xs:element name="WideRangeSkillDamageIncreasingRatio" type="xs:string" minOccurs="0" />
+              <xs:element name="RushSkillMovementSpeedDecreasingTime" type="xs:string" minOccurs="0" />
+              <xs:element name="RushSkillBloodSuckingRatio" type="xs:string" minOccurs="0" />
+              <xs:element name="RushSkillCoolDownTime" type="xs:string" minOccurs="0" />
+              <xs:element name="RushSkillDamageIncreasingRatio" type="xs:string" minOccurs="0" />
+              <xs:element name="WhirlWindSkillChargingSpeedDecreasingTime" type="xs:string" minOccurs="0" />
+              <xs:element name="WhirlWindSkillChargingMovementSpeedIncreasingRatio" type="xs:string" minOccurs="0" />
+              <xs:element name="WhirlWindSkillRevCount" type="xs:string" minOccurs="0" />
+              <xs:element name="WhirlWindSkillDamageIncreasingRatio" type="xs:string" minOccurs="0" />
+              <xs:element name="CriticalAttackRatio" type="xs:string" minOccurs="0" />
+              <xs:element name="BlockRatio" type="xs:string" minOccurs="0" />
+              <xs:element name="CriticalAttackDamageRatio" type="xs:string" minOccurs="0" />
+              <xs:element name="CriticalAttackRecoveryHP" type="xs:string" minOccurs="0" />
+              <xs:element name="IncreasingHPRatio" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" ?>
+<ItemWeaponStrengthenStonesSettings>
+	<ItemWeaponStrengthenStone>
+		<Index>WUS_001</Index>
+		<Name>폭력성 1단계</Name>
+		<Level>1.0</Level>
+		<ChargedEXP>150.0</ChargedEXP>
+		<IconName></IconName>
+		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+	</ItemWeaponStrengthenStone>
+	<ItemWeaponStrengthenStone>
+		<Index>WUS_002</Index>
+		<Name>폭력성 2단계</Name>
+		<Level>2.0</Level>
+		<ChargedEXP>200.0</ChargedEXP>
+		<IconName></IconName>
+		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+	</ItemWeaponStrengthenStone>
+	<ItemWeaponStrengthenStone>
+		<Index>WUS_003</Index>
+		<Name>폭력성 3단계</Name>
+		<Level>3.0</Level>
+		<ChargedEXP>250.0</ChargedEXP>
+		<IconName></IconName>
+		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+	</ItemWeaponStrengthenStone>
+	<ItemWeaponStrengthenStone>
+		<Index>WUS_004</Index>
+		<Name>폭력성 4단계</Name>
+		<Level>4.0</Level>
+		<ChargedEXP>300.0</ChargedEXP>
+		<IconName></IconName>
+		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+	</ItemWeaponStrengthenStone>
+	<ItemWeaponStrengthenStone>
+		<Index>WUS_005</Index>
+		<Name>폭력성 5단계</Name>
+		<Level>5.0</Level>
+		<ChargedEXP>350.0</ChargedEXP>
+		<IconName></IconName>
+		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+	</ItemWeaponStrengthenStone>
+	<ItemWeaponStrengthenStone>
+		<Index>WUS_006</Index>
+		<Name>폭력성 6단계</Name>
+		<Level>6.0</Level>
+		<ChargedEXP>400.0</ChargedEXP>
+		<IconName></IconName>
+		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+	</ItemWeaponStrengthenStone>
+	<ItemWeaponStrengthenStone>
+		<Index>WUS_007</Index>
+		<Name>폭력성 7단계</Name>
+		<Level>7.0</Level>
+		<ChargedEXP>450.0</ChargedEXP>
+		<IconName></IconName>
+		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+	</ItemWeaponStrengthenStone>
+	<ItemWeaponStrengthenStone>
+		<Index>WUS_008</Index>
+		<Name>폭력성 8단계</Name>
+		<Level>8.0</Level>
+		<ChargedEXP>500.0</ChargedEXP>
+		<IconName></IconName>
+		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+	</ItemWeaponStrengthenStone>
+	<ItemWeaponStrengthenStone>
+		<Index>WUS_009</Index>
+		<Name>폭력성 9단계</Name>
+		<Level>9.0</Level>
+		<ChargedEXP>550.0</ChargedEXP>
+		<IconName></IconName>
+		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+	</ItemWeaponStrengthenStone>
+	<ItemWeaponStrengthenStone>
+		<Index>WUS_010</Index>
+		<Name>폭력성 10단계</Name>
+		<Level>10.0</Level>
+		<ChargedEXP>600.0</ChargedEXP>
+		<IconName></IconName>
+		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+	</ItemWeaponStrengthenStone>
+</ItemWeaponStrengthenStonesSettings>

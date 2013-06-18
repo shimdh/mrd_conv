@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SkillsSettings" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="SkillsSettings" msdata:IsDataSet="true" msdata:Locale="en-US">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Skill">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Index" type="xs:string" minOccurs="0" />
+              <xs:element name="SkillName" type="xs:string" minOccurs="0" />
+              <xs:element name="RequiredLevel" type="xs:string" minOccurs="0" />
+              <xs:element name="FirstSkillLevel" type="xs:string" minOccurs="0" />
+              <xs:element name="SecondSkillLevel" type="xs:string" minOccurs="0" />
+              <xs:element name="ThirdSkillLevel" type="xs:string" minOccurs="0" />
+              <xs:element name="Damage" type="xs:string" minOccurs="0" />
+              <xs:element name="AffectedDistance" type="xs:string" minOccurs="0" />
+              <xs:element name="WideRange" type="xs:string" minOccurs="0" />
+              <xs:element name="CoolDownTime" type="xs:string" minOccurs="0" />
+              <xs:element name="StartAnimationTime" type="xs:string" minOccurs="0" />
+              <xs:element name="MiddleAnimationTime" type="xs:string" minOccurs="0" />
+              <xs:element name="EndAnimationTime" type="xs:string" minOccurs="0" />
+              <xs:element name="DefaultSkillDescription" type="xs:string" minOccurs="0" />
+              <xs:element name="FirstSkillDescription" type="xs:string" minOccurs="0" />
+              <xs:element name="SecondSkillDescription" type="xs:string" minOccurs="0" />
+              <xs:element name="ThirdSkillDescription" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

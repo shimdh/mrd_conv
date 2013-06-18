@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" ?>
+<SkillSlotsSettings>
+	<SkillSlot>
+		<Index>SLT_A01</Index>
+		<Name>광역 1번째 슬롯</Name>
+		<RequiredLevel>3.0</RequiredLevel>
+		<Description>지면강타 스킬로 공격받은 적들이 HP를 회복시키는 구슬을 떨어뜨립니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_A02</Index>
+		<Name>광역 2번째 슬롯</Name>
+		<RequiredLevel>8.0</RequiredLevel>
+		<Description>지면강타 스킬로 공격받은 적들이 넘어지고 일정 시간 움직이지 못하게 됩니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_A03</Index>
+		<Name>광역 3번째 슬롯</Name>
+		<RequiredLevel>16.0</RequiredLevel>
+		<Description>지면강타 스킬의 쿨타임이 줄어듭니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_A04</Index>
+		<Name>돌진 1번째 슬롯</Name>
+		<RequiredLevel>6.0</RequiredLevel>
+		<Description>공간돌파 스킬로 공격받은 적들의 이동속도가 느려집니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_A05</Index>
+		<Name>돌진 2번째 슬롯</Name>
+		<RequiredLevel>12.0</RequiredLevel>
+		<Description>공간돌파 스킬로 적을 공격하면 HP가 회복됩니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_A06</Index>
+		<Name>돌진 3번째 슬롯</Name>
+		<RequiredLevel>18.0</RequiredLevel>
+		<Description>공간돌파 스킬의 쿨타임이 줄어듭니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_A07</Index>
+		<Name>휠윈드 1번째 슬롯</Name>
+		<RequiredLevel>10.0</RequiredLevel>
+		<Description>회전베기 사용을 위한 준비시간이 줄어듭니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_A08</Index>
+		<Name>휠윈드 2번째 슬롯</Name>
+		<RequiredLevel>14.0</RequiredLevel>
+		<Description>회전베기 준비시간 중 이동속도가 빨라집니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_A09</Index>
+		<Name>휠윈드 3번째 슬롯</Name>
+		<RequiredLevel>20.0</RequiredLevel>
+		<Description>회전베기의 회전 횟수가 늘어납니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_P01</Index>
+		<Name>패시브 1번째 슬롯</Name>
+		<RequiredLevel>5.0</RequiredLevel>
+		<Description>일반공격의 치명타 발생 확률이 증가합니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_P02</Index>
+		<Name>패시브 2번째 슬롯</Name>
+		<RequiredLevel>7.0</RequiredLevel>
+		<Description>적으로부터 받는 대미지가 감소 됩니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_P03</Index>
+		<Name>패시브 3번째 슬롯</Name>
+		<RequiredLevel>9.0</RequiredLevel>
+		<Description>일반공격의 치명타가 대미지가 증가합니다</Description>
+	</SkillSlot>
+	<SkillSlot>
+		<Index>SLT_P04</Index>
+		<Name>패시브 4번째 슬롯</Name>
+		<RequiredLevel>11.0</RequiredLevel>
+		<Description>일반공격 시 치명타가 발생했을 때 회복되는 HP의 양이 증가합니다</Description>
+	</SkillSlot>
+</SkillSlotsSettings>

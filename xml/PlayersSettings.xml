@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<PlayersSettings>
+	<Player>
+		<Name>Player1</Name>
+		<Sex>1.0</Sex>
+		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackAngle>180.0</DefaultAttackAngle>
+		<DefaultAttackSpeed1>1.2</DefaultAttackSpeed1>
+		<DefaultAttackSpeed2>1.2</DefaultAttackSpeed2>
+		<DefaultAttackSpeed3>1.2</DefaultAttackSpeed3>
+		<DefaultAttackDelay>0.4</DefaultAttackDelay>
+		<MovingSpeed>15.0</MovingSpeed>
+		<AdditionalHP>0.0</AdditionalHP>
+		<BlockPoint>0.0</BlockPoint>
+		<CriticalAttackRate>5.0</CriticalAttackRate>
+		<CriticalAttackDamage>150.0</CriticalAttackDamage>
+		<CriticalAttackRecoveryPoint>10.0</CriticalAttackRecoveryPoint>
+	</Player>
+</PlayersSettings>

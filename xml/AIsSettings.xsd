@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AIsSettings" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="AIsSettings" msdata:IsDataSet="true" msdata:Locale="en-US">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AI">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Index" type="xs:string" minOccurs="0" />
+              <xs:element name="SkillFirstCheck" type="xs:string" minOccurs="0" />
+              <xs:element name="Step1HPRate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step1Skill1Linked" type="xs:string" minOccurs="0" />
+              <xs:element name="Step1Skill1Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step1Skill2Linked" type="xs:string" minOccurs="0" />
+              <xs:element name="Step1Skill2Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step1Skill3Linked" type="xs:string" minOccurs="0" />
+              <xs:element name="Step1Skill3Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step2HPRate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step2Skill1Linked" type="xs:string" minOccurs="0" />
+              <xs:element name="Step2Skill1Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step2Skill2Linked" type="xs:string" minOccurs="0" />
+              <xs:element name="Step2Skill2Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step2Skill3Linked" type="xs:string" minOccurs="0" />
+              <xs:element name="Step2Skill3Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step3HPRate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step3Skill1Linked" type="xs:string" minOccurs="0" />
+              <xs:element name="Step3Skill1Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step3Skill2Linked" type="xs:string" minOccurs="0" />
+              <xs:element name="Step3Skill2Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Step3Skill3Linked" type="xs:string" minOccurs="0" />
+              <xs:element name="Step3Skill3Rate" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

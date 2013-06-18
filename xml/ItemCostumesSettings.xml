@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" ?>
+<ItemCostumesSettings>
+	<ItemCostume>
+		<Index>COS_C01</Index>
+		<Name>임포멘의 검</Name>
+		<SetPart>1.0</SetPart>
+		<AddingActingPower>0.0</AddingActingPower>
+		<WearLocation>1.0</WearLocation>
+		<IconName></IconName>
+		<Mash></Mash>
+		<Description>임포멘들의 무기</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_C02</Index>
+		<Name>임포멘의 가면</Name>
+		<SetPart>1.0</SetPart>
+		<AddingActingPower>0.0</AddingActingPower>
+		<WearLocation>2.0</WearLocation>
+		<IconName></IconName>
+		<Mash></Mash>
+		<Description>임포멘들이 쓰고 다니는 투구</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_C03</Index>
+		<Name>임포멘의 변장옷</Name>
+		<SetPart>1.0</SetPart>
+		<AddingActingPower>0.0</AddingActingPower>
+		<WearLocation>3.0</WearLocation>
+		<IconName></IconName>
+		<Mash></Mash>
+		<Description>임포멘들이 입고 다니는 갑옷</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_C04</Index>
+		<Name>임포멘의 방패</Name>
+		<SetPart>1.0</SetPart>
+		<AddingActingPower>0.0</AddingActingPower>
+		<WearLocation>4.0</WearLocation>
+		<IconName></IconName>
+		<Mash></Mash>
+		<Description>임포멘들이 걸치는 망토</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_D01</Index>
+		<Name>월러스의 창</Name>
+		<SetPart>2.0</SetPart>
+		<AddingActingPower>0.0</AddingActingPower>
+		<WearLocation>1.0</WearLocation>
+		<IconName></IconName>
+		<Mash></Mash>
+		<Description>월러스들의 무기</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_D02</Index>
+		<Name>월러스의 가면</Name>
+		<SetPart>2.0</SetPart>
+		<AddingActingPower>0.0</AddingActingPower>
+		<WearLocation>2.0</WearLocation>
+		<IconName></IconName>
+		<Mash></Mash>
+		<Description>월러스들이 쓰고 다니는 투구</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_D03</Index>
+		<Name>월러스의 변장옷</Name>
+		<SetPart>2.0</SetPart>
+		<AddingActingPower>0.0</AddingActingPower>
+		<WearLocation>3.0</WearLocation>
+		<IconName></IconName>
+		<Mash></Mash>
+		<Description>월러스들이 입고 다니는 갑옷</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_D04</Index>
+		<Name>월러스의 방패</Name>
+		<SetPart>2.0</SetPart>
+		<AddingActingPower>0.0</AddingActingPower>
+		<WearLocation>4.0</WearLocation>
+		<IconName></IconName>
+		<Mash></Mash>
+		<Description>월러스들이 걸치는 망토</Description>
+	</ItemCostume>
+</ItemCostumesSettings>

@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" ?>
+<ZonesSettings>
+	<Zone>
+		<Index>ZON_011</Index>
+		<Name>숲 1</Name>
+		<ChapterNo>1.0</ChapterNo>
+		<ZoneNo>1.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_012</Index>
+		<Name>숲 2</Name>
+		<ChapterNo>1.0</ChapterNo>
+		<ZoneNo>2.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_013</Index>
+		<Name>숲 3</Name>
+		<ChapterNo>1.0</ChapterNo>
+		<ZoneNo>3.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_014</Index>
+		<Name>숲 4</Name>
+		<ChapterNo>1.0</ChapterNo>
+		<ZoneNo>4.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_021</Index>
+		<Name>설원 1</Name>
+		<ChapterNo>2.0</ChapterNo>
+		<ZoneNo>1.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_022</Index>
+		<Name>설원 2</Name>
+		<ChapterNo>2.0</ChapterNo>
+		<ZoneNo>2.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_023</Index>
+		<Name>설원 3</Name>
+		<ChapterNo>2.0</ChapterNo>
+		<ZoneNo>3.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_024</Index>
+		<Name>설원 4</Name>
+		<ChapterNo>2.0</ChapterNo>
+		<ZoneNo>4.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_025</Index>
+		<Name>설원 5</Name>
+		<ChapterNo>2.0</ChapterNo>
+		<ZoneNo>5.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_031</Index>
+		<Name>화산 1</Name>
+		<ChapterNo>3.0</ChapterNo>
+		<ZoneNo>1.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_032</Index>
+		<Name>화산 2</Name>
+		<ChapterNo>3.0</ChapterNo>
+		<ZoneNo>2.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_033</Index>
+		<Name>화산 3</Name>
+		<ChapterNo>3.0</ChapterNo>
+		<ZoneNo>3.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_034</Index>
+		<Name>화산 4</Name>
+		<ChapterNo>3.0</ChapterNo>
+		<ZoneNo>4.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_035</Index>
+		<Name>화산 5</Name>
+		<ChapterNo>3.0</ChapterNo>
+		<ZoneNo>5.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_036</Index>
+		<Name>화산 6</Name>
+		<ChapterNo>3.0</ChapterNo>
+		<ZoneNo>6.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_041</Index>
+		<Name>숲 1</Name>
+		<ChapterNo>4.0</ChapterNo>
+		<ZoneNo>1.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_042</Index>
+		<Name>숲 2</Name>
+		<ChapterNo>4.0</ChapterNo>
+		<ZoneNo>2.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_043</Index>
+		<Name>숲 3</Name>
+		<ChapterNo>4.0</ChapterNo>
+		<ZoneNo>3.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_044</Index>
+		<Name>숲 4</Name>
+		<ChapterNo>4.0</ChapterNo>
+		<ZoneNo>4.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_051</Index>
+		<Name>설원 1</Name>
+		<ChapterNo>5.0</ChapterNo>
+		<ZoneNo>1.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_052</Index>
+		<Name>설원 2</Name>
+		<ChapterNo>5.0</ChapterNo>
+		<ZoneNo>2.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_053</Index>
+		<Name>설원 3</Name>
+		<ChapterNo>5.0</ChapterNo>
+		<ZoneNo>3.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_054</Index>
+		<Name>설원 4</Name>
+		<ChapterNo>5.0</ChapterNo>
+		<ZoneNo>4.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_055</Index>
+		<Name>설원 5</Name>
+		<ChapterNo>5.0</ChapterNo>
+		<ZoneNo>5.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_061</Index>
+		<Name>화산 1</Name>
+		<ChapterNo>6.0</ChapterNo>
+		<ZoneNo>1.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_062</Index>
+		<Name>화산 2</Name>
+		<ChapterNo>6.0</ChapterNo>
+		<ZoneNo>2.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_063</Index>
+		<Name>화산 3</Name>
+		<ChapterNo>6.0</ChapterNo>
+		<ZoneNo>3.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_064</Index>
+		<Name>화산 4</Name>
+		<ChapterNo>6.0</ChapterNo>
+		<ZoneNo>4.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_065</Index>
+		<Name>화산 5</Name>
+		<ChapterNo>6.0</ChapterNo>
+		<ZoneNo>5.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+	<Zone>
+		<Index>ZON_066</Index>
+		<Name>화산 6</Name>
+		<ChapterNo>6.0</ChapterNo>
+		<ZoneNo>6.0</ZoneNo>
+		<Description></Description>
+	</Zone>
+</ZonesSettings>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" ?>
+<ItemEtcsSettings>
+	<ItemEtc>
+		<Index>ETC_001</Index>
+		<Name>휴대폰</Name>
+		<IconName></IconName>
+		<Description>휴대폰. 이 곳에서는 먹통이다.</Description>
+	</ItemEtc>
+	<ItemEtc>
+		<Index>ETC_002</Index>
+		<Name>오리 나팔</Name>
+		<IconName></IconName>
+		<Description>우스꽝스러운 모양의 나팔. 레오가 준 우정의 징표</Description>
+	</ItemEtc>
+	<ItemEtc>
+		<Index>ETC_003</Index>
+		<Name>찌그러진 오리 나팔</Name>
+		<IconName></IconName>
+		<Description>우스꽝스러운 모양의 나팔. 레오가 준 우정의 징표. 찌그러져 있다.</Description>
+	</ItemEtc>
+	<ItemEtc>
+		<Index>ETC_004</Index>
+		<Name>블랙스톤</Name>
+		<IconName></IconName>
+		<Description>깃털이 달린 보석. 언제부터인지 내 주머니 속에 있었다.</Description>
+	</ItemEtc>
+	<ItemEtc>
+		<Index>ETC_005</Index>
+		<Name>잡쓰레기</Name>
+		<IconName></IconName>
+		<Description>잡쓰레기</Description>
+	</ItemEtc>
+	<ItemEtc>
+		<Index>ETC_006</Index>
+		<Name>환상의 돌</Name>
+		<IconName></IconName>
+		<Description>캐쉬</Description>
+	</ItemEtc>
+</ItemEtcsSettings>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ItemPuzzlePiecesSettings" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="ItemPuzzlePiecesSettings" msdata:IsDataSet="true" msdata:Locale="en-US">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ItemPuzzlePiece">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Index" type="xs:string" minOccurs="0" />
+              <xs:element name="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="BaseIndex" type="xs:string" minOccurs="0" />
+              <xs:element name="PieceLocation" type="xs:string" minOccurs="0" />
+              <xs:element name="Condition" type="xs:string" minOccurs="0" />
+              <xs:element name="ZoneIndex" type="xs:string" minOccurs="0" />
+              <xs:element name="NormalMonsterCount" type="xs:string" minOccurs="0" />
+              <xs:element name="BossMonsterCount" type="xs:string" minOccurs="0" />
+              <xs:element name="FileldDropRate" type="xs:string" minOccurs="0" />
+              <xs:element name="FishingCount" type="xs:string" minOccurs="0" />
+              <xs:element name="PirateShipCount" type="xs:string" minOccurs="0" />
+              <xs:element name="FishingDropRate" type="xs:string" minOccurs="0" />
+              <xs:element name="IconName" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

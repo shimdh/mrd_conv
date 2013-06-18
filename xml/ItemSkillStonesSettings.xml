@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" ?>
+<ItemSkillStonesSettings>
+	<ItemSkillStone>
+		<Index>SKS_A01</Index>
+		<Name>붉은 꿈의 파편</Name>
+		<SkillStoneLevel>1.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_A02</NextSkillStoneLevel>
+		<ActivePassive>1.0</ActivePassive>
+		<Description>액티브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_A02</Index>
+		<Name>붉은 꿈의 파편</Name>
+		<SkillStoneLevel>2.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_A03</NextSkillStoneLevel>
+		<ActivePassive>1.0</ActivePassive>
+		<Description>액티브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_A03</Index>
+		<Name>붉은 꿈의 파편</Name>
+		<SkillStoneLevel>3.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_A04</NextSkillStoneLevel>
+		<ActivePassive>1.0</ActivePassive>
+		<Description>액티브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_A04</Index>
+		<Name>붉은 꿈의 파편</Name>
+		<SkillStoneLevel>4.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_A05</NextSkillStoneLevel>
+		<ActivePassive>1.0</ActivePassive>
+		<Description>액티브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_A05</Index>
+		<Name>붉은 꿈의 파편</Name>
+		<SkillStoneLevel>5.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_A06</NextSkillStoneLevel>
+		<ActivePassive>1.0</ActivePassive>
+		<Description>액티브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_A06</Index>
+		<Name>붉은 꿈의 파편</Name>
+		<SkillStoneLevel>6.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_A07</NextSkillStoneLevel>
+		<ActivePassive>1.0</ActivePassive>
+		<Description>액티브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_A07</Index>
+		<Name>붉은 꿈의 파편</Name>
+		<SkillStoneLevel>7.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_A08</NextSkillStoneLevel>
+		<ActivePassive>1.0</ActivePassive>
+		<Description>액티브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_A08</Index>
+		<Name>붉은 꿈의 파편</Name>
+		<SkillStoneLevel>8.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_A09</NextSkillStoneLevel>
+		<ActivePassive>1.0</ActivePassive>
+		<Description>액티브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_A09</Index>
+		<Name>붉은 꿈의 파편</Name>
+		<SkillStoneLevel>9.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_A10</NextSkillStoneLevel>
+		<ActivePassive>1.0</ActivePassive>
+		<Description>액티브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_A10</Index>
+		<Name>붉은 꿈의 파편</Name>
+		<SkillStoneLevel>10.0</SkillStoneLevel>
+		<NextSkillStoneLevel></NextSkillStoneLevel>
+		<ActivePassive>1.0</ActivePassive>
+		<Description>액티브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_P01</Index>
+		<Name>푸른 꿈의 파편</Name>
+		<SkillStoneLevel>1.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_P02</NextSkillStoneLevel>
+		<ActivePassive>2.0</ActivePassive>
+		<Description>패시브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_P02</Index>
+		<Name>푸른 꿈의 파편</Name>
+		<SkillStoneLevel>2.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_P03</NextSkillStoneLevel>
+		<ActivePassive>2.0</ActivePassive>
+		<Description>패시브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_P03</Index>
+		<Name>푸른 꿈의 파편</Name>
+		<SkillStoneLevel>3.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_P04</NextSkillStoneLevel>
+		<ActivePassive>2.0</ActivePassive>
+		<Description>패시브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_P04</Index>
+		<Name>푸른 꿈의 파편</Name>
+		<SkillStoneLevel>4.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_P05</NextSkillStoneLevel>
+		<ActivePassive>2.0</ActivePassive>
+		<Description>패시브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_P05</Index>
+		<Name>푸른 꿈의 파편</Name>
+		<SkillStoneLevel>5.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_P06</NextSkillStoneLevel>
+		<ActivePassive>2.0</ActivePassive>
+		<Description>패시브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_P06</Index>
+		<Name>푸른 꿈의 파편</Name>
+		<SkillStoneLevel>6.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_P07</NextSkillStoneLevel>
+		<ActivePassive>2.0</ActivePassive>
+		<Description>패시브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_P07</Index>
+		<Name>푸른 꿈의 파편</Name>
+		<SkillStoneLevel>7.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_P08</NextSkillStoneLevel>
+		<ActivePassive>2.0</ActivePassive>
+		<Description>패시브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_P08</Index>
+		<Name>푸른 꿈의 파편</Name>
+		<SkillStoneLevel>8.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_P09</NextSkillStoneLevel>
+		<ActivePassive>2.0</ActivePassive>
+		<Description>패시브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_P09</Index>
+		<Name>푸른 꿈의 파편</Name>
+		<SkillStoneLevel>9.0</SkillStoneLevel>
+		<NextSkillStoneLevel>SKS_P10</NextSkillStoneLevel>
+		<ActivePassive>2.0</ActivePassive>
+		<Description>패시브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+	<ItemSkillStone>
+		<Index>SKS_P10</Index>
+		<Name>푸른 꿈의 파편</Name>
+		<SkillStoneLevel>10.0</SkillStoneLevel>
+		<NextSkillStoneLevel></NextSkillStoneLevel>
+		<ActivePassive>2.0</ActivePassive>
+		<Description>패시브 스킬 슬롯에 장착하여 스킬의 성능을 상승시킵니다</Description>
+	</ItemSkillStone>
+</ItemSkillStonesSettings>

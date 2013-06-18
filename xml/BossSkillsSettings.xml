@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" ?>
+<BossSkillsSettings>
+	<BossSkill>
+		<Index>MSK_001</Index>
+		<Description>순간이동</Description>
+		<SkillType>0.0</SkillType>
+		<SkillCheckingDistance>100.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>3.0</CastingTime>
+		<DamageRate>0.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>0.0</DamageAreaWidth>
+		<DamageAreaLength>0.0</DamageAreaLength>
+		<DamageAreaDurationTime>0.0</DamageAreaDurationTime>
+		<UnprotectedTime>0.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_002</Index>
+		<Description>돌진</Description>
+		<SkillType>1.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>20.0</DamageAreaLength>
+		<DamageAreaDurationTime>1.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_003</Index>
+		<Description>광역
+몬스터 위치 1개</Description>
+		<SkillType>2.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>20.0</DamageAreaLength>
+		<DamageAreaDurationTime>1.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_004</Index>
+		<Description>광역
+캐릭터 위치 1개</Description>
+		<SkillType>3.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>20.0</DamageAreaLength>
+		<DamageAreaDurationTime>1.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_005</Index>
+		<Description>광역
+캐릭터 주변 2개</Description>
+		<SkillType>4.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>20.0</DamageAreaLength>
+		<DamageAreaDurationTime>1.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_006</Index>
+		<Description>광역
+캐릭터 주변 4개</Description>
+		<SkillType>5.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>5.0</DamageAreaLength>
+		<DamageAreaDurationTime>1.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_007</Index>
+		<Description>웨이브
+몬스터 기준 1개</Description>
+		<SkillType>6.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>5.0</DamageAreaLength>
+		<DamageAreaDurationTime>1.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_008</Index>
+		<Description>웨이브
+몬스터 기준 3개</Description>
+		<SkillType>7.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>5.0</DamageAreaLength>
+		<DamageAreaDurationTime>1.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_009</Index>
+		<Description>웨이브
+몬스터 기준 5개</Description>
+		<SkillType>8.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>5.0</DamageAreaLength>
+		<DamageAreaDurationTime>1.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_010</Index>
+		<Description>휠윈드</Description>
+		<SkillType>9.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>5.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>5.0</DamageAreaLength>
+		<DamageAreaDurationTime>10.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_011</Index>
+		<Description>직선 발사체
+몬스터 기준 1개</Description>
+		<SkillType>10.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>5.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>5.0</DamageAreaLength>
+		<DamageAreaDurationTime>10.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_012</Index>
+		<Description>직선 발사체
+몬스터 기준 3개</Description>
+		<SkillType>11.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>5.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>5.0</DamageAreaLength>
+		<DamageAreaDurationTime>10.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_013</Index>
+		<Description>직선 발사체
+몬스터 기준 8개</Description>
+		<SkillType>12.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>5.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>10.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_014</Index>
+		<Description>직선 발사체
+캐릭터 기준 3개</Description>
+		<SkillType>13.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>5.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>10.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_015</Index>
+		<Description>추격 발사체
+몬스터 기준 1개</Description>
+		<SkillType>14.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>10.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>10.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_016</Index>
+		<Description>추격 발사체
+캐릭터 기준 2개</Description>
+		<SkillType>15.0</SkillType>
+		<SkillCheckingDistance>15.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>5.0</DamageMovingSpeed>
+		<DamageAreaWidth>5.0</DamageAreaWidth>
+		<DamageAreaLength>0.0</DamageAreaLength>
+		<DamageAreaDurationTime>10.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_017</Index>
+		<Description>추격 발사체
+캐릭터 기준 3개</Description>
+		<SkillType>16.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>20.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_018</Index>
+		<Description>추격 발사체
+캐릭터 기준 4개</Description>
+		<SkillType>17.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>20.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_019</Index>
+		<Description>궤도 발사체
+몬스터 기준 1개</Description>
+		<SkillType>18.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>20.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_020</Index>
+		<Description>궤도 발사체
+몬스터 기준 2개</Description>
+		<SkillType>19.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>20.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_021</Index>
+		<Description>궤도 발사체
+몬스터 기준 3개</Description>
+		<SkillType>20.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>20.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_022</Index>
+		<Description>지뢰
+몬스터 기준 5개</Description>
+		<SkillType>21.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>20.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_023</Index>
+		<Description>지뢰
+캐릭터 기준 8개</Description>
+		<SkillType>22.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>20.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_024</Index>
+		<Description>무적 지뢰
+캐릭터 기준 3개</Description>
+		<SkillType>23.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>20.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+	<BossSkill>
+		<Index>MSK_025</Index>
+		<Description>무적 지뢰
+캐릭터 기준 5개</Description>
+		<SkillType>24.0</SkillType>
+		<SkillCheckingDistance>20.0</SkillCheckingDistance>
+		<CoolDownTime>10.0</CoolDownTime>
+		<CastingTime>4.0</CastingTime>
+		<DamageRate>100.0</DamageRate>
+		<DamageMovingSpeed>0.0</DamageMovingSpeed>
+		<DamageAreaWidth>2.0</DamageAreaWidth>
+		<DamageAreaLength>2.0</DamageAreaLength>
+		<DamageAreaDurationTime>20.0</DamageAreaDurationTime>
+		<UnprotectedTime>5.0</UnprotectedTime>
+	</BossSkill>
+</BossSkillsSettings>

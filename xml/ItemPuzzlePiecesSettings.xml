@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" ?>
+<ItemPuzzlePiecesSettings>
+	<ItemPuzzlePiece>
+		<Index>PUZ_001</Index>
+		<Name>1쪽의 첫번째 조각</Name>
+		<BaseIndex>PUB_012</BaseIndex>
+		<PieceLocation>1.0</PieceLocation>
+		<Condition>1.0</Condition>
+		<ZoneIndex>ZON_012</ZoneIndex>
+		<NormalMonsterCount>30.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(1쪽)꿈과 상상의 세계 퍼즐의 첫번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_002</Index>
+		<Name>1쪽의 두번째 조각</Name>
+		<BaseIndex>PUB_012</BaseIndex>
+		<PieceLocation>2.0</PieceLocation>
+		<Condition>2.0</Condition>
+		<ZoneIndex>ZON_012</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>1.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(1쪽)꿈과 상상의 세계 퍼즐의 두번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_003</Index>
+		<Name>1쪽의 세번째 조각</Name>
+		<BaseIndex>PUB_012</BaseIndex>
+		<PieceLocation>3.0</PieceLocation>
+		<Condition>3.0</Condition>
+		<ZoneIndex>ZON_012</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.05</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(1쪽)꿈과 상상의 세계 퍼즐의 세번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_004</Index>
+		<Name>1쪽의 네번째 조각</Name>
+		<BaseIndex>PUB_012</BaseIndex>
+		<PieceLocation>4.0</PieceLocation>
+		<Condition>1.0</Condition>
+		<ZoneIndex>ZON_013</ZoneIndex>
+		<NormalMonsterCount>40.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(1쪽)꿈과 상상의 세계 퍼즐의 네번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_005</Index>
+		<Name>1쪽의 다섯번째 조각</Name>
+		<BaseIndex>PUB_012</BaseIndex>
+		<PieceLocation>5.0</PieceLocation>
+		<Condition>2.0</Condition>
+		<ZoneIndex>ZON_013</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>1.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(1쪽)꿈과 상상의 세계 퍼즐의 다섯번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_006</Index>
+		<Name>1쪽의 여섯번째 조각</Name>
+		<BaseIndex>PUB_012</BaseIndex>
+		<PieceLocation>6.0</PieceLocation>
+		<Condition>3.0</Condition>
+		<ZoneIndex>ZON_013</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.05</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(1쪽)꿈과 상상의 세계 퍼즐의 여섯번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_007</Index>
+		<Name>1쪽의 일곱번째 조각</Name>
+		<BaseIndex>PUB_012</BaseIndex>
+		<PieceLocation>7.0</PieceLocation>
+		<Condition>1.0</Condition>
+		<ZoneIndex>ZON_014</ZoneIndex>
+		<NormalMonsterCount>50.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(1쪽)꿈과 상상의 세계 퍼즐의 일곱번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_008</Index>
+		<Name>1쪽의 여덟번째 조각</Name>
+		<BaseIndex>PUB_012</BaseIndex>
+		<PieceLocation>8.0</PieceLocation>
+		<Condition>2.0</Condition>
+		<ZoneIndex>ZON_014</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>1.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(1쪽)꿈과 상상의 세계 퍼즐의 여덟번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_009</Index>
+		<Name>1쪽의 아홉번째 조각</Name>
+		<BaseIndex>PUB_012</BaseIndex>
+		<PieceLocation>9.0</PieceLocation>
+		<Condition>3.0</Condition>
+		<ZoneIndex>ZON_014</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.05</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(1쪽)꿈과 상상의 세계 퍼즐의 아홉번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_011</Index>
+		<Name>2쪽의 첫번째 조각</Name>
+		<BaseIndex>PUB_021</BaseIndex>
+		<PieceLocation>1.0</PieceLocation>
+		<Condition>1.0</Condition>
+		<ZoneIndex>ZON_021</ZoneIndex>
+		<NormalMonsterCount>40.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(6쪽)실패 퍼즐의 첫번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_012</Index>
+		<Name>2쪽의 두번째 조각</Name>
+		<BaseIndex>PUB_021</BaseIndex>
+		<PieceLocation>2.0</PieceLocation>
+		<Condition>3.0</Condition>
+		<ZoneIndex>ZON_021</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.04</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(6쪽)실패 퍼즐의 두번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_013</Index>
+		<Name>2쪽의 세번째 조각</Name>
+		<BaseIndex>PUB_021</BaseIndex>
+		<PieceLocation>3.0</PieceLocation>
+		<Condition>4.0</Condition>
+		<ZoneIndex>ZON_021</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>40.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(6쪽)실패 퍼즐의 세번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_014</Index>
+		<Name>2쪽의 네번째 조각</Name>
+		<BaseIndex>PUB_021</BaseIndex>
+		<PieceLocation>4.0</PieceLocation>
+		<Condition>1.0</Condition>
+		<ZoneIndex>ZON_022</ZoneIndex>
+		<NormalMonsterCount>50.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(6쪽)실패 퍼즐의 네번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_015</Index>
+		<Name>2쪽의 다섯번째 조각</Name>
+		<BaseIndex>PUB_021</BaseIndex>
+		<PieceLocation>5.0</PieceLocation>
+		<Condition>4.0</Condition>
+		<ZoneIndex>ZON_022</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>45.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(6쪽)실패 퍼즐의 다섯번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_016</Index>
+		<Name>2쪽의 여섯번째 조각</Name>
+		<BaseIndex>PUB_021</BaseIndex>
+		<PieceLocation>6.0</PieceLocation>
+		<Condition>6.0</Condition>
+		<ZoneIndex>ZON_022</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.05</FishingDropRate>
+		<IconName></IconName>
+		<Description>(6쪽)실패 퍼즐의 여섯번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_017</Index>
+		<Name>2쪽의 일곱번째 조각</Name>
+		<BaseIndex>PUB_021</BaseIndex>
+		<PieceLocation>7.0</PieceLocation>
+		<Condition>1.0</Condition>
+		<ZoneIndex>ZON_023</ZoneIndex>
+		<NormalMonsterCount>60.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(6쪽)실패 퍼즐의 일곱번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_018</Index>
+		<Name>2쪽의 여덟번째 조각</Name>
+		<BaseIndex>PUB_021</BaseIndex>
+		<PieceLocation>8.0</PieceLocation>
+		<Condition>2.0</Condition>
+		<ZoneIndex>ZON_023</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>2.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.0</FishingDropRate>
+		<IconName></IconName>
+		<Description>(6쪽)실패 퍼즐의 여덟번째 조각</Description>
+	</ItemPuzzlePiece>
+	<ItemPuzzlePiece>
+		<Index>PUZ_019</Index>
+		<Name>2쪽의 아홉번째 조각</Name>
+		<BaseIndex>PUB_021</BaseIndex>
+		<PieceLocation>9.0</PieceLocation>
+		<Condition>6.0</Condition>
+		<ZoneIndex>ZON_023</ZoneIndex>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.0</FileldDropRate>
+		<FishingCount>0.0</FishingCount>
+		<PirateShipCount>0.0</PirateShipCount>
+		<FishingDropRate>0.04</FishingDropRate>
+		<IconName></IconName>
+		<Description>(6쪽)실패 퍼즐의 아홉번째 조각</Description>
+	</ItemPuzzlePiece>
+</ItemPuzzlePiecesSettings>

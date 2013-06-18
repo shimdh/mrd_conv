@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<AIsSettings>
+	<AI>
+		<Index>MAI_001</Index>
+		<SkillFirstCheck>MSK_001</SkillFirstCheck>
+		<Step1HPRate>1.0</Step1HPRate>
+		<Step1Skill1Linked>MSK_002</Step1Skill1Linked>
+		<Step1Skill1Rate>0.3</Step1Skill1Rate>
+		<Step1Skill2Linked></Step1Skill2Linked>
+		<Step1Skill2Rate>0.0</Step1Skill2Rate>
+		<Step1Skill3Linked></Step1Skill3Linked>
+		<Step1Skill3Rate>0.0</Step1Skill3Rate>
+		<Step2HPRate>0.7</Step2HPRate>
+		<Step2Skill1Linked>MSK_002</Step2Skill1Linked>
+		<Step2Skill1Rate>0.5</Step2Skill1Rate>
+		<Step2Skill2Linked></Step2Skill2Linked>
+		<Step2Skill2Rate>0.0</Step2Skill2Rate>
+		<Step2Skill3Linked></Step2Skill3Linked>
+		<Step2Skill3Rate>0.0</Step2Skill3Rate>
+		<Step3HPRate>0.3</Step3HPRate>
+		<Step3Skill1Linked>MSK_002</Step3Skill1Linked>
+		<Step3Skill1Rate>1.0</Step3Skill1Rate>
+		<Step3Skill2Linked></Step3Skill2Linked>
+		<Step3Skill2Rate>0.0</Step3Skill2Rate>
+		<Step3Skill3Linked></Step3Skill3Linked>
+		<Step3Skill3Rate>0.0</Step3Skill3Rate>
+	</AI>
+</AIsSettings>

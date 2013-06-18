@@ -1,83 +1,255 @@
 ﻿<?xml version="1.0" ?>
 <ItemCostumesSettings>
 	<ItemCostume>
+		<Index>COS_001</Index>
+		<Name>기본 검</Name>
+		<WearLocation>1.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName></IconName>
+		<Description></Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_002</Index>
+		<Name>기본 머리</Name>
+		<WearLocation>2.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName></IconName>
+		<Description></Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_003</Index>
+		<Name>기본 몸</Name>
+		<WearLocation>3.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName></IconName>
+		<Description></Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_004</Index>
+		<Name>기본 망토 없음</Name>
+		<WearLocation>4.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName></IconName>
+		<Description></Description>
+	</ItemCostume>
+	<ItemCostume>
 		<Index>COS_C01</Index>
 		<Name>임포멘의 검</Name>
-		<SetPart>1.0</SetPart>
-		<AddingActingPower>0.0</AddingActingPower>
 		<WearLocation>1.0</WearLocation>
-		<IconName></IconName>
-		<Mash></Mash>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_impomen_weapon</IconName>
 		<Description>임포멘들의 무기</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_C02</Index>
 		<Name>임포멘의 가면</Name>
-		<SetPart>1.0</SetPart>
-		<AddingActingPower>0.0</AddingActingPower>
 		<WearLocation>2.0</WearLocation>
-		<IconName></IconName>
-		<Mash></Mash>
+		<HelmetType>1.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_impomen_helmet</IconName>
 		<Description>임포멘들이 쓰고 다니는 투구</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_C03</Index>
 		<Name>임포멘의 변장옷</Name>
-		<SetPart>1.0</SetPart>
-		<AddingActingPower>0.0</AddingActingPower>
 		<WearLocation>3.0</WearLocation>
-		<IconName></IconName>
-		<Mash></Mash>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_impomen_armor</IconName>
 		<Description>임포멘들이 입고 다니는 갑옷</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_C04</Index>
 		<Name>임포멘의 방패</Name>
-		<SetPart>1.0</SetPart>
-		<AddingActingPower>0.0</AddingActingPower>
 		<WearLocation>4.0</WearLocation>
-		<IconName></IconName>
-		<Mash></Mash>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_impomen_cloak</IconName>
 		<Description>임포멘들이 걸치는 망토</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_D01</Index>
 		<Name>월러스의 창</Name>
-		<SetPart>2.0</SetPart>
-		<AddingActingPower>0.0</AddingActingPower>
 		<WearLocation>1.0</WearLocation>
-		<IconName></IconName>
-		<Mash></Mash>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_walus_weapon</IconName>
 		<Description>월러스들의 무기</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_D02</Index>
 		<Name>월러스의 가면</Name>
-		<SetPart>2.0</SetPart>
-		<AddingActingPower>0.0</AddingActingPower>
 		<WearLocation>2.0</WearLocation>
-		<IconName></IconName>
-		<Mash></Mash>
+		<HelmetType>1.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_walus_helmet</IconName>
 		<Description>월러스들이 쓰고 다니는 투구</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_D03</Index>
 		<Name>월러스의 변장옷</Name>
-		<SetPart>2.0</SetPart>
-		<AddingActingPower>0.0</AddingActingPower>
 		<WearLocation>3.0</WearLocation>
-		<IconName></IconName>
-		<Mash></Mash>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_walus_armor</IconName>
 		<Description>월러스들이 입고 다니는 갑옷</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_D04</Index>
 		<Name>월러스의 방패</Name>
-		<SetPart>2.0</SetPart>
-		<AddingActingPower>0.0</AddingActingPower>
 		<WearLocation>4.0</WearLocation>
-		<IconName></IconName>
-		<Mash></Mash>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_walus_cloak</IconName>
 		<Description>월러스들이 걸치는 망토</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_C51</Index>
+		<Name>엘리트 임포멘의 검</Name>
+		<WearLocation>1.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_eliteimpomen_weapon</IconName>
+		<Description>엘리트 임포멘들의 무기</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_C52</Index>
+		<Name>엘리트 임포멘의 가면</Name>
+		<WearLocation>2.0</WearLocation>
+		<HelmetType>1.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_eliteimpomen_helmet</IconName>
+		<Description>엘리트 임포멘들이 쓰고 다니는 투구</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_C53</Index>
+		<Name>엘리트 임포멘의 변장옷</Name>
+		<WearLocation>3.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_eliteimpomen_armor</IconName>
+		<Description>엘리트 임포멘들이 입고 다니는 갑옷</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_C54</Index>
+		<Name>엘리트 임포멘의 방패</Name>
+		<WearLocation>4.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>0.0</Cash>
+		<IconName>cos_eliteimpomen_cloak</IconName>
+		<Description>엘리트 임포멘들이 걸치는 망토</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X01</Index>
+		<Name>견습 기사의 검</Name>
+		<WearLocation>1.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>10.0</Cash>
+		<IconName>cos_knight_weapon</IconName>
+		<Description>견습 기사의 검</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X02</Index>
+		<Name>견습 기사의 투구</Name>
+		<WearLocation>2.0</WearLocation>
+		<HelmetType>2.0</HelmetType>
+		<Cash>10.0</Cash>
+		<IconName>cos_knight_helmet</IconName>
+		<Description>견습 기사의 투구</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X03</Index>
+		<Name>견습 기사의 갑옷</Name>
+		<WearLocation>3.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>10.0</Cash>
+		<IconName>cos_knight_armor</IconName>
+		<Description>견습 기사의 갑옷</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X04</Index>
+		<Name>견습 기사의 망토</Name>
+		<WearLocation>4.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>10.0</Cash>
+		<IconName>cos_knight_cloak</IconName>
+		<Description>견습 기사의 망토</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X05</Index>
+		<Name>메이드의 빗자루</Name>
+		<WearLocation>1.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>15.0</Cash>
+		<IconName>cos_maid_weapon</IconName>
+		<Description>메이드의 빗자루</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X06</Index>
+		<Name>메이드의 머리 장식</Name>
+		<WearLocation>2.0</WearLocation>
+		<HelmetType>2.0</HelmetType>
+		<Cash>15.0</Cash>
+		<IconName>cos_maid_helmet</IconName>
+		<Description>메이드의 머리 장식</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X07</Index>
+		<Name>메이드의 옷</Name>
+		<WearLocation>3.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>15.0</Cash>
+		<IconName>cos_maid_armor</IconName>
+		<Description>메이드의 옷</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X08</Index>
+		<Name>메이드의 리본</Name>
+		<WearLocation>4.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>15.0</Cash>
+		<IconName>cos_maid_cloak</IconName>
+		<Description>메이드의 리본</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X09</Index>
+		<Name>싱싱한 연어</Name>
+		<WearLocation>1.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>20.0</Cash>
+		<IconName>cos_bear_weapon</IconName>
+		<Description>싱싱한 연어</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X10</Index>
+		<Name>곰돌이 모자</Name>
+		<WearLocation>2.0</WearLocation>
+		<HelmetType>2.0</HelmetType>
+		<Cash>20.0</Cash>
+		<IconName>cos_bear_helmet</IconName>
+		<Description>곰돌이 모자</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X11</Index>
+		<Name>곰돌이 옷</Name>
+		<WearLocation>3.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>20.0</Cash>
+		<IconName>cos_bear_armor</IconName>
+		<Description>곰돌이 옷</Description>
+	</ItemCostume>
+	<ItemCostume>
+		<Index>COS_X12</Index>
+		<Name>꿀단지</Name>
+		<WearLocation>4.0</WearLocation>
+		<HelmetType>0.0</HelmetType>
+		<Cash>20.0</Cash>
+		<IconName>cos_bear_cloak</IconName>
+		<Description>꿀단지</Description>
 	</ItemCostume>
 </ItemCostumesSettings>

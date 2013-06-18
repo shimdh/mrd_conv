@@ -1,16 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema id="ItemCostumesSettings" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-  <xs:element name="ItemCostumesSettings" msdata:IsDataSet="true" msdata:Locale="en-US">
+<xs:schema id="CostumeBasesSettings" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="CostumeBasesSettings" msdata:IsDataSet="true" msdata:Locale="en-US">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="ItemCostume">
+        <xs:element name="CostumeBase">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="Index" type="xs:string" minOccurs="0" />
               <xs:element name="Name" type="xs:string" minOccurs="0" />
-              <xs:element name="WearLocation" type="xs:string" minOccurs="0" />
-              <xs:element name="HelmetType" type="xs:string" minOccurs="0" />
               <xs:element name="Cash" type="xs:string" minOccurs="0" />
+              <xs:element name="RechargedCashDuration" type="xs:string" minOccurs="0" />
+              <xs:element name="WeaponIndex" type="xs:string" minOccurs="0" />
+              <xs:element name="HelmetIndex" type="xs:string" minOccurs="0" />
+              <xs:element name="ArmorIndex" type="xs:string" minOccurs="0" />
+              <xs:element name="CloakIndex" type="xs:string" minOccurs="0" />
               <xs:element name="IconName" type="xs:string" minOccurs="0" />
               <xs:element name="Description" type="xs:string" minOccurs="0" />
             </xs:sequence>

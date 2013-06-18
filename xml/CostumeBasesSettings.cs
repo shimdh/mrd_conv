@@ -7,13 +7,13 @@
 [System.ComponentModel.DesignerCategoryAttribute("code")]
 [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true)]
 [System.Xml.Serialization.XmlRootAttribute(Namespace="", IsNullable=false)]
-public class ItemCostumesSettings {
+public class CostumeBasesSettings {
 
-    private ItemCostumesSettingsItemCostume[] itemsField;
+    private CostumeBasesSettingsCostumeBase[] itemsField;
 
     /// <remarks/>
-    [System.Xml.Serialization.XmlElementAttribute("ItemCostume")]
-    public ItemCostumesSettingsItemCostume[] Items {
+    [System.Xml.Serialization.XmlElementAttribute("CostumeBase")]
+    public CostumeBasesSettingsCostumeBase[] Items {
         get {
             return this.itemsField;
         }
@@ -29,17 +29,23 @@ public class ItemCostumesSettings {
 [System.Diagnostics.DebuggerStepThroughAttribute()]
 [System.ComponentModel.DesignerCategoryAttribute("code")]
 [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true)]
-public class ItemCostumesSettingsItemCostume : XmlData {
+public class CostumeBasesSettingsCostumeBase : XmlData {
 
     private string indexField;
 
     private string nameField;
 
-    private float wearLocationField;
-
-    private float helmetTypeField;
-
     private float cashField;
+
+    private float rechargedCashDurationField;
+
+    private string weaponIndexField;
+
+    private string helmetIndexField;
+
+    private string armorIndexField;
+
+    private string cloakIndexField;
 
     private string iconNameField;
 
@@ -68,28 +74,6 @@ public class ItemCostumesSettingsItemCostume : XmlData {
     }
 
     /// <remarks/>
-    [System.Xml.Serialization.XmlElementAttribute("WearLocation")]
-    public float WearLocation {
-        get {
-            return this.wearLocationField;
-        }
-        set {
-            this.wearLocationField = value;
-        }
-    }
-
-    /// <remarks/>
-    [System.Xml.Serialization.XmlElementAttribute("HelmetType")]
-    public float HelmetType {
-        get {
-            return this.helmetTypeField;
-        }
-        set {
-            this.helmetTypeField = value;
-        }
-    }
-
-    /// <remarks/>
     [System.Xml.Serialization.XmlElementAttribute("Cash")]
     public float Cash {
         get {
@@ -97,6 +81,61 @@ public class ItemCostumesSettingsItemCostume : XmlData {
         }
         set {
             this.cashField = value;
+        }
+    }
+
+    /// <remarks/>
+    [System.Xml.Serialization.XmlElementAttribute("RechargedCashDuration")]
+    public float RechargedCashDuration {
+        get {
+            return this.rechargedCashDurationField;
+        }
+        set {
+            this.rechargedCashDurationField = value;
+        }
+    }
+
+    /// <remarks/>
+    [System.Xml.Serialization.XmlElementAttribute("WeaponIndex")]
+    public string WeaponIndex {
+        get {
+            return this.weaponIndexField;
+        }
+        set {
+            this.weaponIndexField = value;
+        }
+    }
+
+    /// <remarks/>
+    [System.Xml.Serialization.XmlElementAttribute("HelmetIndex")]
+    public string HelmetIndex {
+        get {
+            return this.helmetIndexField;
+        }
+        set {
+            this.helmetIndexField = value;
+        }
+    }
+
+    /// <remarks/>
+    [System.Xml.Serialization.XmlElementAttribute("ArmorIndex")]
+    public string ArmorIndex {
+        get {
+            return this.armorIndexField;
+        }
+        set {
+            this.armorIndexField = value;
+        }
+    }
+
+    /// <remarks/>
+    [System.Xml.Serialization.XmlElementAttribute("CloakIndex")]
+    public string CloakIndex {
+        get {
+            return this.cloakIndexField;
+        }
+        set {
+            this.cloakIndexField = value;
         }
     }
 

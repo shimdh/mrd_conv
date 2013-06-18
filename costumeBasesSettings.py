@@ -11,8 +11,8 @@ statusKeysKorean = []
 ITEMS_NAMES = []
 ITEMS_DESCRIPTION = []
 ITEMS_STATUS_LIST = []
-STATUS_TAG = 'ItemCostume'
-SUB_PLURAL = 'ItemCostume'
+STATUS_TAG = 'CostumeBase'
+SUB_PLURAL = 'CostumeBase'
 TAG_PLURAL = 's'
 ITEMS_SETTINGS_FILE = SUB_PLURAL + TAG_PLURAL + 'Settings'
 ITEMS_SETTINGS_XML_FILE = ITEMS_SETTINGS_FILE + '.xml'
@@ -32,7 +32,7 @@ for s in wbItems.sheets():
         else:
             for col in range(s.ncols):
                 # values.append(str(s.cell(row, col).value))
-                if col in (1, 6):
+                if col in (1, 9):
                     values.append(unicode(s.cell(row, col).value))
                     if col == 1:
                         ITEMS_DESCRIPTION.append(unicode(s.cell(row, col).value))

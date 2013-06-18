@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" ?>
+<CostumeBasesSettings>
+	<CostumeBase>
+		<Index>COB_001</Index>
+		<Name>기본 캐릭터</Name>
+		<Cash>0.0</Cash>
+		<RechargedCashDuration>0.0</RechargedCashDuration>
+		<WeaponIndex>COS_001</WeaponIndex>
+		<HelmetIndex>COS_002</HelmetIndex>
+		<ArmorIndex>COS_003</ArmorIndex>
+		<CloakIndex>COS_004</CloakIndex>
+		<IconName></IconName>
+		<Description></Description>
+	</CostumeBase>
+	<CostumeBase>
+		<Index>COB_C01</Index>
+		<Name>임포멘 코스튬</Name>
+		<Cash>1.0</Cash>
+		<RechargedCashDuration>5.0</RechargedCashDuration>
+		<WeaponIndex>COS_C01</WeaponIndex>
+		<HelmetIndex>COS_C02</HelmetIndex>
+		<ArmorIndex>COS_C03</ArmorIndex>
+		<CloakIndex>COS_C04</CloakIndex>
+		<IconName></IconName>
+		<Description></Description>
+	</CostumeBase>
+	<CostumeBase>
+		<Index>COB_D01</Index>
+		<Name>월러스 코스튬</Name>
+		<Cash>1.0</Cash>
+		<RechargedCashDuration>3.0</RechargedCashDuration>
+		<WeaponIndex>COS_D01</WeaponIndex>
+		<HelmetIndex>COS_D02</HelmetIndex>
+		<ArmorIndex>COS_D03</ArmorIndex>
+		<CloakIndex>COS_D04</CloakIndex>
+		<IconName></IconName>
+		<Description></Description>
+	</CostumeBase>
+	<CostumeBase>
+		<Index>COB_C51</Index>
+		<Name>엘리트 임포멘 코스튬</Name>
+		<Cash>1.0</Cash>
+		<RechargedCashDuration>2.0</RechargedCashDuration>
+		<WeaponIndex>COS_C51</WeaponIndex>
+		<HelmetIndex>COS_C52</HelmetIndex>
+		<ArmorIndex>COS_C53</ArmorIndex>
+		<CloakIndex>COS_C54</CloakIndex>
+		<IconName></IconName>
+		<Description></Description>
+	</CostumeBase>
+	<CostumeBase>
+		<Index>COB_X01</Index>
+		<Name>임포멘 코스튬</Name>
+		<Cash>1.0</Cash>
+		<RechargedCashDuration>1.0</RechargedCashDuration>
+		<WeaponIndex>COS_X01</WeaponIndex>
+		<HelmetIndex>COS_X02</HelmetIndex>
+		<ArmorIndex>COS_X03</ArmorIndex>
+		<CloakIndex>COS_X04</CloakIndex>
+		<IconName></IconName>
+		<Description></Description>
+	</CostumeBase>
+	<CostumeBase>
+		<Index>COB_X05</Index>
+		<Name>월러스 코스튬</Name>
+		<Cash>1.0</Cash>
+		<RechargedCashDuration>1.0</RechargedCashDuration>
+		<WeaponIndex>COS_X05</WeaponIndex>
+		<HelmetIndex>COS_X06</HelmetIndex>
+		<ArmorIndex>COS_X07</ArmorIndex>
+		<CloakIndex>COS_X08</CloakIndex>
+		<IconName></IconName>
+		<Description></Description>
+	</CostumeBase>
+	<CostumeBase>
+		<Index>COB_X09</Index>
+		<Name>엘리트 임포멘 코스튬</Name>
+		<Cash>1.0</Cash>
+		<RechargedCashDuration>1.0</RechargedCashDuration>
+		<WeaponIndex>COS_X09</WeaponIndex>
+		<HelmetIndex>COS_X10</HelmetIndex>
+		<ArmorIndex>COS_X11</ArmorIndex>
+		<CloakIndex>COS_X12</CloakIndex>
+		<IconName></IconName>
+		<Description></Description>
+	</CostumeBase>
+</CostumeBasesSettings>

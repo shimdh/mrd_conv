@@ -2,6 +2,7 @@ eclipse.preferences.version=1
 encoding/ItemEtcsSettings.py=utf-8
 encoding/ItemPuzzlePiecesSettings.py=utf-8
 encoding/costumeBasesSettings.py=utf-8
+encoding/diariesSettings.py=utf-8
 encoding/dropItemsSettings.py=utf-8
 encoding/enemiesSettings.py=utf-8
 encoding/itemWeaponStrengthenStonesSettings.py=utf-8

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DropItemsSettingsZone0103" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="DropItemsSettingsZone0103" msdata:IsDataSet="true" msdata:Locale="en-US">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DropItemZone0103">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Index" type="xs:string" minOccurs="0" />
+              <xs:element name="NoItemRate" type="xs:string" minOccurs="0" />
+              <xs:element name="PirateShipIndex" type="xs:string" minOccurs="0" />
+              <xs:element name="PirateShipRate" type="xs:string" minOccurs="0" />
+              <xs:element name="SpecialPirateShipIndex" type="xs:string" minOccurs="0" />
+              <xs:element name="SpecialPirateShipRate" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_1" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_1" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_1" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_2" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_2" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_2" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_3" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_3" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_3" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_4" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_4" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_4" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_5" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_5" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_5" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_6" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_6" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_6" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_7" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_7" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_7" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_8" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_8" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_8" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_9" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_9" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_9" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_10" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_10" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_10" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_11" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_11" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_11" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_12" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_12" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_12" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemIndex_13" type="xs:string" minOccurs="0" />
+              <xs:element name="Count_13" type="xs:string" minOccurs="0" />
+              <xs:element name="Rate_13" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

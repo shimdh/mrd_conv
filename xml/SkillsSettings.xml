@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" ?>
+<?xml version="1.0" ?>
 <SkillsSettings>
 	<Skill>
 		<Index>SKL_A01</Index>
@@ -7,7 +7,7 @@
 		<FirstSkillLevel>10.0</FirstSkillLevel>
 		<SecondSkillLevel>25.0</SecondSkillLevel>
 		<ThirdSkillLevel>40.0</ThirdSkillLevel>
-		<Damage>1.5</Damage>
+		<Damage>3.0</Damage>
 		<AffectedDistance>0.0</AffectedDistance>
 		<WideRange>30.0</WideRange>
 		<CoolDownTime>20.0</CoolDownTime>
@@ -15,9 +15,9 @@
 		<MiddleAnimationTime>0.0</MiddleAnimationTime>
 		<EndAnimationTime>0.4</EndAnimationTime>
 		<DefaultSkillDescription>지면을 내리쳐 주변에 강한 피해를 줍니다</DefaultSkillDescription>
-		<FirstSkillDescription>지면을 내리쳐 주변에 강한 피해를 주고 적들을 공중으로 띄워 올립니다</FirstSkillDescription>
-		<SecondSkillDescription>지면을 내리쳐 주변에 강한 피해를 주고 적들을 공중으로 띄워 밀려나게 합니다</SecondSkillDescription>
-		<ThirdSkillDescription>지면을 내리쳐 주변에 강한 피해를 주고 적들을 공중으로 띄워 멀리 날려보냅니다</ThirdSkillDescription>
+		<FirstSkillDescription>충격의 반동으로 적들이 튀어오릅니다</FirstSkillDescription>
+		<SecondSkillDescription>적들이 사방으로 튕겨져 나갑니다</SecondSkillDescription>
+		<ThirdSkillDescription>적들이 높게 튀어올라 떨어져 나뒹굽니다</ThirdSkillDescription>
 	</Skill>
 	<Skill>
 		<Index>SKL_A02</Index>
@@ -26,7 +26,7 @@
 		<FirstSkillLevel>15.0</FirstSkillLevel>
 		<SecondSkillLevel>30.0</SecondSkillLevel>
 		<ThirdSkillLevel>45.0</ThirdSkillLevel>
-		<Damage>1.2</Damage>
+		<Damage>2.5</Damage>
 		<AffectedDistance>30.0</AffectedDistance>
 		<WideRange>5.0</WideRange>
 		<CoolDownTime>18.0</CoolDownTime>
@@ -34,9 +34,9 @@
 		<MiddleAnimationTime>0.6</MiddleAnimationTime>
 		<EndAnimationTime>0.4</EndAnimationTime>
 		<DefaultSkillDescription>직선의 공간을 빠르게 돌파합니다</DefaultSkillDescription>
-		<FirstSkillDescription>직선의 공간을 빠르게 돌파하여 적들을 어지럽혀 넘어지게 합니다</FirstSkillDescription>
-		<SecondSkillDescription>직선의 공간을 빠르게 돌파하여 적들을 밀어내고 어지럽혀 넘어지게 합니다</SecondSkillDescription>
-		<ThirdSkillDescription>직선의 공간을 빠르게 돌파하여 적들을 멀리 날려보내고 어지럽혀 넘어지게 합니다</ThirdSkillDescription>
+		<FirstSkillDescription>충돌한 적들이 회전하며 넘어집니다</FirstSkillDescription>
+		<SecondSkillDescription>충돌한 적들이 멀리 밀려납니다</SecondSkillDescription>
+		<ThirdSkillDescription>공간돌파의 충돌 범위가 넓어집니다</ThirdSkillDescription>
 	</Skill>
 	<Skill>
 		<Index>SKL_A03</Index>
@@ -52,10 +52,10 @@
 		<StartAnimationTime>0.3</StartAnimationTime>
 		<MiddleAnimationTime>0.25</MiddleAnimationTime>
 		<EndAnimationTime>0.5</EndAnimationTime>
-		<DefaultSkillDescription>검과 함께 회전하여 주변의 여러 명의 적을 공격합니다</DefaultSkillDescription>
-		<FirstSkillDescription>검과 함께 회전하여 주변의 여러 명의 적을 공격하고 원심력을 이용하여 적에게 받는 피해를 감소시킵니다</FirstSkillDescription>
-		<SecondSkillDescription>회전 중 빠른 속도로 이동하여 주변의 여러 명의 적을 공격하고 원심력을 이용하여 적에게 받는 피해를 감소시킵니다</SecondSkillDescription>
-		<ThirdSkillDescription>강력한 회전으로 회오리를 발생시켜 적을 공중으로 띄우고 원심력을 이용하여 적에게 받는 피해를 감소시킵니다</ThirdSkillDescription>
+		<DefaultSkillDescription>회전하며 주변의 여러 명의 적을 공격합니다</DefaultSkillDescription>
+		<FirstSkillDescription>원심력으로 받는 피해를 감소시킵니다</FirstSkillDescription>
+		<SecondSkillDescription>회전 중 이동속도가 빨라집니다</SecondSkillDescription>
+		<ThirdSkillDescription>강력한 회오리에 적들을 휘말리게 합니다</ThirdSkillDescription>
 	</Skill>
 	<Skill>
 		<Index>SKL_P01</Index>

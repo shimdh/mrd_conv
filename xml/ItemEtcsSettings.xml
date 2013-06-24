@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" ?>
+<?xml version="1.0" ?>
 <ItemEtcsSettings>
 	<ItemEtc>
 		<Index>ETC_001</Index>
@@ -32,7 +32,7 @@
 	</ItemEtc>
 	<ItemEtc>
 		<Index>ETC_006</Index>
-		<Name>환상의 돌</Name>
+		<Name>환상석</Name>
 		<IconName></IconName>
 		<Description>캐쉬</Description>
 	</ItemEtc>

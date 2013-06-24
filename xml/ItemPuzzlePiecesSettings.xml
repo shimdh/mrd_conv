@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" ?>
+<?xml version="1.0" ?>
 <ItemPuzzlePiecesSettings>
 	<ItemPuzzlePiece>
 		<Index>PUZ_001</Index>
 		<Name>1쪽의 첫번째 조각</Name>
-		<BaseIndex>PUB_012</BaseIndex>
+		<BaseIndex>PUB_013</BaseIndex>
 		<PieceLocation>1.0</PieceLocation>
 		<Condition>1.0</Condition>
-		<ZoneIndex>ZON_012</ZoneIndex>
-		<NormalMonsterCount>30.0</NormalMonsterCount>
+		<ZoneIndex>ZON_013</ZoneIndex>
+		<NormalMonsterCount>10.0</NormalMonsterCount>
 		<BossMonsterCount>0.0</BossMonsterCount>
 		<FileldDropRate>0.0</FileldDropRate>
 		<FishingCount>0.0</FishingCount>
@@ -19,12 +19,12 @@
 	<ItemPuzzlePiece>
 		<Index>PUZ_002</Index>
 		<Name>1쪽의 두번째 조각</Name>
-		<BaseIndex>PUB_012</BaseIndex>
+		<BaseIndex>PUB_013</BaseIndex>
 		<PieceLocation>2.0</PieceLocation>
-		<Condition>2.0</Condition>
-		<ZoneIndex>ZON_012</ZoneIndex>
-		<NormalMonsterCount>0.0</NormalMonsterCount>
-		<BossMonsterCount>1.0</BossMonsterCount>
+		<Condition>1.0</Condition>
+		<ZoneIndex>ZON_013</ZoneIndex>
+		<NormalMonsterCount>80.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
 		<FileldDropRate>0.0</FileldDropRate>
 		<FishingCount>0.0</FishingCount>
 		<PirateShipCount>0.0</PirateShipCount>
@@ -35,10 +35,10 @@
 	<ItemPuzzlePiece>
 		<Index>PUZ_003</Index>
 		<Name>1쪽의 세번째 조각</Name>
-		<BaseIndex>PUB_012</BaseIndex>
+		<BaseIndex>PUB_013</BaseIndex>
 		<PieceLocation>3.0</PieceLocation>
 		<Condition>3.0</Condition>
-		<ZoneIndex>ZON_012</ZoneIndex>
+		<ZoneIndex>ZON_013</ZoneIndex>
 		<NormalMonsterCount>0.0</NormalMonsterCount>
 		<BossMonsterCount>0.0</BossMonsterCount>
 		<FileldDropRate>0.05</FileldDropRate>
@@ -51,13 +51,13 @@
 	<ItemPuzzlePiece>
 		<Index>PUZ_004</Index>
 		<Name>1쪽의 네번째 조각</Name>
-		<BaseIndex>PUB_012</BaseIndex>
+		<BaseIndex>PUB_013</BaseIndex>
 		<PieceLocation>4.0</PieceLocation>
-		<Condition>1.0</Condition>
+		<Condition>3.0</Condition>
 		<ZoneIndex>ZON_013</ZoneIndex>
-		<NormalMonsterCount>40.0</NormalMonsterCount>
+		<NormalMonsterCount>0.0</NormalMonsterCount>
 		<BossMonsterCount>0.0</BossMonsterCount>
-		<FileldDropRate>0.0</FileldDropRate>
+		<FileldDropRate>0.05</FileldDropRate>
 		<FishingCount>0.0</FishingCount>
 		<PirateShipCount>0.0</PirateShipCount>
 		<FishingDropRate>0.0</FishingDropRate>
@@ -67,12 +67,12 @@
 	<ItemPuzzlePiece>
 		<Index>PUZ_005</Index>
 		<Name>1쪽의 다섯번째 조각</Name>
-		<BaseIndex>PUB_012</BaseIndex>
+		<BaseIndex>PUB_013</BaseIndex>
 		<PieceLocation>5.0</PieceLocation>
-		<Condition>2.0</Condition>
-		<ZoneIndex>ZON_013</ZoneIndex>
-		<NormalMonsterCount>0.0</NormalMonsterCount>
-		<BossMonsterCount>1.0</BossMonsterCount>
+		<Condition>1.0</Condition>
+		<ZoneIndex>ZON_014</ZoneIndex>
+		<NormalMonsterCount>50.0</NormalMonsterCount>
+		<BossMonsterCount>0.0</BossMonsterCount>
 		<FileldDropRate>0.0</FileldDropRate>
 		<FishingCount>0.0</FishingCount>
 		<PirateShipCount>0.0</PirateShipCount>
@@ -83,13 +83,13 @@
 	<ItemPuzzlePiece>
 		<Index>PUZ_006</Index>
 		<Name>1쪽의 여섯번째 조각</Name>
-		<BaseIndex>PUB_012</BaseIndex>
+		<BaseIndex>PUB_013</BaseIndex>
 		<PieceLocation>6.0</PieceLocation>
-		<Condition>3.0</Condition>
-		<ZoneIndex>ZON_013</ZoneIndex>
-		<NormalMonsterCount>0.0</NormalMonsterCount>
+		<Condition>1.0</Condition>
+		<ZoneIndex>ZON_014</ZoneIndex>
+		<NormalMonsterCount>100.0</NormalMonsterCount>
 		<BossMonsterCount>0.0</BossMonsterCount>
-		<FileldDropRate>0.05</FileldDropRate>
+		<FileldDropRate>0.0</FileldDropRate>
 		<FishingCount>0.0</FishingCount>
 		<PirateShipCount>0.0</PirateShipCount>
 		<FishingDropRate>0.0</FishingDropRate>
@@ -99,11 +99,11 @@
 	<ItemPuzzlePiece>
 		<Index>PUZ_007</Index>
 		<Name>1쪽의 일곱번째 조각</Name>
-		<BaseIndex>PUB_012</BaseIndex>
+		<BaseIndex>PUB_013</BaseIndex>
 		<PieceLocation>7.0</PieceLocation>
 		<Condition>1.0</Condition>
 		<ZoneIndex>ZON_014</ZoneIndex>
-		<NormalMonsterCount>50.0</NormalMonsterCount>
+		<NormalMonsterCount>150.0</NormalMonsterCount>
 		<BossMonsterCount>0.0</BossMonsterCount>
 		<FileldDropRate>0.0</FileldDropRate>
 		<FishingCount>0.0</FishingCount>
@@ -115,13 +115,13 @@
 	<ItemPuzzlePiece>
 		<Index>PUZ_008</Index>
 		<Name>1쪽의 여덟번째 조각</Name>
-		<BaseIndex>PUB_012</BaseIndex>
+		<BaseIndex>PUB_013</BaseIndex>
 		<PieceLocation>8.0</PieceLocation>
-		<Condition>2.0</Condition>
+		<Condition>3.0</Condition>
 		<ZoneIndex>ZON_014</ZoneIndex>
 		<NormalMonsterCount>0.0</NormalMonsterCount>
-		<BossMonsterCount>1.0</BossMonsterCount>
-		<FileldDropRate>0.0</FileldDropRate>
+		<BossMonsterCount>0.0</BossMonsterCount>
+		<FileldDropRate>0.05</FileldDropRate>
 		<FishingCount>0.0</FishingCount>
 		<PirateShipCount>0.0</PirateShipCount>
 		<FishingDropRate>0.0</FishingDropRate>
@@ -131,7 +131,7 @@
 	<ItemPuzzlePiece>
 		<Index>PUZ_009</Index>
 		<Name>1쪽의 아홉번째 조각</Name>
-		<BaseIndex>PUB_012</BaseIndex>
+		<BaseIndex>PUB_013</BaseIndex>
 		<PieceLocation>9.0</PieceLocation>
 		<Condition>3.0</Condition>
 		<ZoneIndex>ZON_014</ZoneIndex>

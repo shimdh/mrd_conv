@@ -30,7 +30,7 @@ def float_eq(a, b, epsilon=0.00000001):
 
 wbItems = open_workbook(os.getcwd() + "\\xls\\" + ITEMS_SETTINGS_EXCEL_FILE)
 
-for sheet_count in (0, ):
+for sheet_count in (0, 1, 2, 3, 4):
     s = wbItems.sheet_by_index(sheet_count)
     ITEMS_STATUS_LIST = []
     ITEMS_NAMES = []

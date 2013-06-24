@@ -1,43 +1,43 @@
-﻿<?xml version="1.0" ?>
+<?xml version="1.0" ?>
 <EnemiesSettings>
 	<Enemy>
 		<Name>MOB_A01</Name>
 		<Description>퓨링 A1</Description>
 		<Type>1.0</Type>
-		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<Level>1.0</Level>
+		<DefaultAttackDistance>9.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>8.0</MaxHP>
+		<MaxHP>6.0</MaxHP>
 		<AttackPoint>0.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>30.0</ExperiencePoint>
+		<ExperiencePoint>0.0</ExperiencePoint>
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
 		<Name>MOB_B01</Name>
 		<Description>스위퍼 A1</Description>
-		<Type>1.0</Type>
-		<Level>3.0</Level>
+		<Type>2.0</Type>
+		<Level>1.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>8.0</MaxHP>
-		<AttackPoint>15.0</AttackPoint>
+		<MaxHP>6.0</MaxHP>
+		<AttackPoint>1.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>30.0</ExperiencePoint>
+		<ExperiencePoint>1.0</ExperiencePoint>
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
@@ -47,19 +47,19 @@
 	<Enemy>
 		<Name>MOB_B02</Name>
 		<Description>스위퍼 A2</Description>
-		<Type>1.0</Type>
-		<Level>3.0</Level>
+		<Type>2.0</Type>
+		<Level>1.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>8.0</MaxHP>
-		<AttackPoint>15.0</AttackPoint>
+		<MaxHP>6.0</MaxHP>
+		<AttackPoint>1.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>30.0</ExperiencePoint>
+		<ExperiencePoint>1.0</ExperiencePoint>
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
@@ -69,19 +69,19 @@
 	<Enemy>
 		<Name>MOB_B03</Name>
 		<Description>스위퍼 A3</Description>
-		<Type>1.0</Type>
-		<Level>3.0</Level>
+		<Type>2.0</Type>
+		<Level>1.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>32.0</MaxHP>
-		<AttackPoint>15.0</AttackPoint>
+		<MaxHP>15.0</MaxHP>
+		<AttackPoint>1.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>30.0</ExperiencePoint>
+		<ExperiencePoint>1.0</ExperiencePoint>
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
@@ -91,19 +91,19 @@
 	<Enemy>
 		<Name>MOB_B04</Name>
 		<Description>스위퍼 A4</Description>
-		<Type>1.0</Type>
-		<Level>3.0</Level>
+		<Type>2.0</Type>
+		<Level>1.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>32.0</MaxHP>
-		<AttackPoint>15.0</AttackPoint>
+		<MaxHP>15.0</MaxHP>
+		<AttackPoint>1.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>30.0</ExperiencePoint>
+		<ExperiencePoint>1.0</ExperiencePoint>
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
@@ -113,19 +113,19 @@
 	<Enemy>
 		<Name>MOB_B05</Name>
 		<Description>스위퍼 B1</Description>
-		<Type>1.0</Type>
-		<Level>3.0</Level>
+		<Type>4.0</Type>
+		<Level>2.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
 		<MaxHP>20.0</MaxHP>
-		<AttackPoint>15.0</AttackPoint>
+		<AttackPoint>3.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>30.0</ExperiencePoint>
+		<ExperiencePoint>3.0</ExperiencePoint>
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
@@ -135,19 +135,19 @@
 	<Enemy>
 		<Name>MOB_B06</Name>
 		<Description>스위퍼 B2</Description>
-		<Type>1.0</Type>
-		<Level>3.0</Level>
+		<Type>4.0</Type>
+		<Level>2.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
 		<MaxHP>20.0</MaxHP>
-		<AttackPoint>15.0</AttackPoint>
+		<AttackPoint>3.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>30.0</ExperiencePoint>
+		<ExperiencePoint>3.0</ExperiencePoint>
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
@@ -157,19 +157,19 @@
 	<Enemy>
 		<Name>MOB_B07</Name>
 		<Description>스위퍼 B3</Description>
-		<Type>1.0</Type>
-		<Level>3.0</Level>
+		<Type>4.0</Type>
+		<Level>2.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>80.0</MaxHP>
-		<AttackPoint>15.0</AttackPoint>
+		<MaxHP>50.0</MaxHP>
+		<AttackPoint>3.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>30.0</ExperiencePoint>
+		<ExperiencePoint>3.0</ExperiencePoint>
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
@@ -179,19 +179,19 @@
 	<Enemy>
 		<Name>MOB_B08</Name>
 		<Description>스위퍼 B4</Description>
-		<Type>1.0</Type>
-		<Level>3.0</Level>
+		<Type>4.0</Type>
+		<Level>2.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>80.0</MaxHP>
-		<AttackPoint>15.0</AttackPoint>
+		<MaxHP>50.0</MaxHP>
+		<AttackPoint>3.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>30.0</ExperiencePoint>
+		<ExperiencePoint>3.0</ExperiencePoint>
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
@@ -679,27 +679,27 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
 		<Name>MOB_C01</Name>
 		<Description>임포멘 A1</Description>
-		<Type>1.0</Type>
-		<Level>5.0</Level>
+		<Type>2.0</Type>
+		<Level>1.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>8.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<MaxHP>6.0</MaxHP>
+		<AttackPoint>1.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>25.0</ExperiencePoint>
+		<ExperiencePoint>1.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_C01</DropItemIndex>
 		<AIIndex></AIIndex>
@@ -707,21 +707,21 @@
 	<Enemy>
 		<Name>MOB_C02</Name>
 		<Description>임포멘 A2</Description>
-		<Type>1.0</Type>
-		<Level>5.0</Level>
+		<Type>2.0</Type>
+		<Level>1.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>8.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<MaxHP>6.0</MaxHP>
+		<AttackPoint>1.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>25.0</ExperiencePoint>
+		<ExperiencePoint>1.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_C01</DropItemIndex>
 		<AIIndex></AIIndex>
@@ -729,21 +729,21 @@
 	<Enemy>
 		<Name>MOB_C03</Name>
 		<Description>임포멘 A3</Description>
-		<Type>1.0</Type>
-		<Level>5.0</Level>
+		<Type>2.0</Type>
+		<Level>1.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>32.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<MaxHP>15.0</MaxHP>
+		<AttackPoint>1.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>25.0</ExperiencePoint>
+		<ExperiencePoint>1.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_C01</DropItemIndex>
 		<AIIndex></AIIndex>
@@ -751,21 +751,21 @@
 	<Enemy>
 		<Name>MOB_C04</Name>
 		<Description>임포멘 A4</Description>
-		<Type>1.0</Type>
-		<Level>5.0</Level>
+		<Type>2.0</Type>
+		<Level>1.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>32.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<MaxHP>15.0</MaxHP>
+		<AttackPoint>1.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>25.0</ExperiencePoint>
+		<ExperiencePoint>1.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_C01</DropItemIndex>
 		<AIIndex></AIIndex>
@@ -773,21 +773,21 @@
 	<Enemy>
 		<Name>MOB_C05</Name>
 		<Description>임포멘 B1</Description>
-		<Type>1.0</Type>
-		<Level>5.0</Level>
+		<Type>4.0</Type>
+		<Level>2.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
 		<MaxHP>20.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<AttackPoint>3.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>25.0</ExperiencePoint>
+		<ExperiencePoint>3.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_C01</DropItemIndex>
 		<AIIndex></AIIndex>
@@ -795,21 +795,21 @@
 	<Enemy>
 		<Name>MOB_C06</Name>
 		<Description>임포멘 B2</Description>
-		<Type>1.0</Type>
-		<Level>5.0</Level>
+		<Type>4.0</Type>
+		<Level>2.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
 		<MaxHP>20.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<AttackPoint>3.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>25.0</ExperiencePoint>
+		<ExperiencePoint>3.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_C01</DropItemIndex>
 		<AIIndex></AIIndex>
@@ -817,21 +817,21 @@
 	<Enemy>
 		<Name>MOB_C07</Name>
 		<Description>임포멘 B3</Description>
-		<Type>1.0</Type>
-		<Level>5.0</Level>
+		<Type>4.0</Type>
+		<Level>2.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>80.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<MaxHP>50.0</MaxHP>
+		<AttackPoint>3.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>25.0</ExperiencePoint>
+		<ExperiencePoint>3.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_C01</DropItemIndex>
 		<AIIndex></AIIndex>
@@ -839,21 +839,21 @@
 	<Enemy>
 		<Name>MOB_C08</Name>
 		<Description>임포멘 B4</Description>
-		<Type>1.0</Type>
-		<Level>5.0</Level>
+		<Type>4.0</Type>
+		<Level>2.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>80.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<MaxHP>50.0</MaxHP>
+		<AttackPoint>3.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>25.0</ExperiencePoint>
+		<ExperiencePoint>3.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_C01</DropItemIndex>
 		<AIIndex></AIIndex>
@@ -861,21 +861,21 @@
 	<Enemy>
 		<Name>MOB_C09</Name>
 		<Description>임포멘 B5</Description>
-		<Type>1.0</Type>
-		<Level>5.0</Level>
+		<Type>4.0</Type>
+		<Level>2.0</Level>
 		<DefaultAttackDistance>10.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
 		<MaxHP>20.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<AttackPoint>3.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
-		<ExperiencePoint>25.0</ExperiencePoint>
+		<ExperiencePoint>3.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_C01</DropItemIndex>
 		<AIIndex></AIIndex>
@@ -897,9 +897,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>300.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>DRP_BOS</DropItemIndex>
 		<AIIndex>MAI_001</AIIndex>
 	</Enemy>
 	<Enemy>
@@ -919,9 +919,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>300.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>DRP_BOS</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -941,9 +941,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>300.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>DRP_BOS</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -963,9 +963,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>300.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>DRP_BOS</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -985,9 +985,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1007,9 +1007,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1029,9 +1029,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1051,9 +1051,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1073,9 +1073,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1095,9 +1095,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1117,9 +1117,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1139,9 +1139,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1161,9 +1161,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1185,7 +1185,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1207,7 +1207,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1229,7 +1229,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1251,7 +1251,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1271,9 +1271,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1293,9 +1293,9 @@
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>25.0</ExperiencePoint>
 		<CostumeRate>0.03</CostumeRate>
-		<CostumeIndex1>COB_C00</CostumeIndex1>
+		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1317,7 +1317,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1339,7 +1339,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1361,7 +1361,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1383,7 +1383,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1405,7 +1405,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1427,7 +1427,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1449,7 +1449,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1471,7 +1471,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1493,7 +1493,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1515,7 +1515,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1537,7 +1537,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1559,7 +1559,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1581,7 +1581,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1603,7 +1603,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1625,7 +1625,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1647,7 +1647,7 @@
 		<CostumeRate>0.0</CostumeRate>
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
-		<DropItemIndex>DRP_B01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
@@ -1669,7 +1669,7 @@
 		<CostumeRate>0.03</CostumeRate>
 		<CostumeIndex1>COB_C00</CostumeIndex1>
 		<CostumeIndex2>COB_C50</CostumeIndex2>
-		<DropItemIndex>DRP_C01</DropItemIndex>
+		<DropItemIndex>0.0</DropItemIndex>
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>

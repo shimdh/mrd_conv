@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" ?>
+<?xml version="1.0" ?>
 <SkillStonesSettings>
 	<SkillStone>
 		<Index>SKE_001</Index>
@@ -12,7 +12,7 @@
 		<RushSkillBloodSuckingRatio>3.0</RushSkillBloodSuckingRatio>
 		<RushSkillCoolDownTime>17.0</RushSkillCoolDownTime>
 		<RushSkillDamageIncreasingRatio>0.0</RushSkillDamageIncreasingRatio>
-		<WhirlWindSkillChargingSpeedDecreasingTime>6.5</WhirlWindSkillChargingSpeedDecreasingTime>
+		<WhirlWindSkillChargingSpeedDecreasingTime>3.7</WhirlWindSkillChargingSpeedDecreasingTime>
 		<WhirlWindSkillChargingMovementSpeedIncreasingRatio>10.0</WhirlWindSkillChargingMovementSpeedIncreasingRatio>
 		<WhirlWindSkillRevCount>12.0</WhirlWindSkillRevCount>
 		<WhirlWindSkillDamageIncreasingRatio>0.0</WhirlWindSkillDamageIncreasingRatio>
@@ -34,7 +34,7 @@
 		<RushSkillBloodSuckingRatio>6.0</RushSkillBloodSuckingRatio>
 		<RushSkillCoolDownTime>16.0</RushSkillCoolDownTime>
 		<RushSkillDamageIncreasingRatio>0.0</RushSkillDamageIncreasingRatio>
-		<WhirlWindSkillChargingSpeedDecreasingTime>6.0</WhirlWindSkillChargingSpeedDecreasingTime>
+		<WhirlWindSkillChargingSpeedDecreasingTime>3.4</WhirlWindSkillChargingSpeedDecreasingTime>
 		<WhirlWindSkillChargingMovementSpeedIncreasingRatio>20.0</WhirlWindSkillChargingMovementSpeedIncreasingRatio>
 		<WhirlWindSkillRevCount>14.0</WhirlWindSkillRevCount>
 		<WhirlWindSkillDamageIncreasingRatio>0.0</WhirlWindSkillDamageIncreasingRatio>
@@ -56,7 +56,7 @@
 		<RushSkillBloodSuckingRatio>9.0</RushSkillBloodSuckingRatio>
 		<RushSkillCoolDownTime>15.0</RushSkillCoolDownTime>
 		<RushSkillDamageIncreasingRatio>0.0</RushSkillDamageIncreasingRatio>
-		<WhirlWindSkillChargingSpeedDecreasingTime>5.5</WhirlWindSkillChargingSpeedDecreasingTime>
+		<WhirlWindSkillChargingSpeedDecreasingTime>3.1</WhirlWindSkillChargingSpeedDecreasingTime>
 		<WhirlWindSkillChargingMovementSpeedIncreasingRatio>30.0</WhirlWindSkillChargingMovementSpeedIncreasingRatio>
 		<WhirlWindSkillRevCount>16.0</WhirlWindSkillRevCount>
 		<WhirlWindSkillDamageIncreasingRatio>0.0</WhirlWindSkillDamageIncreasingRatio>
@@ -78,7 +78,7 @@
 		<RushSkillBloodSuckingRatio>12.0</RushSkillBloodSuckingRatio>
 		<RushSkillCoolDownTime>14.0</RushSkillCoolDownTime>
 		<RushSkillDamageIncreasingRatio>0.0</RushSkillDamageIncreasingRatio>
-		<WhirlWindSkillChargingSpeedDecreasingTime>5.0</WhirlWindSkillChargingSpeedDecreasingTime>
+		<WhirlWindSkillChargingSpeedDecreasingTime>2.8</WhirlWindSkillChargingSpeedDecreasingTime>
 		<WhirlWindSkillChargingMovementSpeedIncreasingRatio>40.0</WhirlWindSkillChargingMovementSpeedIncreasingRatio>
 		<WhirlWindSkillRevCount>18.0</WhirlWindSkillRevCount>
 		<WhirlWindSkillDamageIncreasingRatio>0.0</WhirlWindSkillDamageIncreasingRatio>
@@ -100,7 +100,7 @@
 		<RushSkillBloodSuckingRatio>15.0</RushSkillBloodSuckingRatio>
 		<RushSkillCoolDownTime>13.0</RushSkillCoolDownTime>
 		<RushSkillDamageIncreasingRatio>1.0</RushSkillDamageIncreasingRatio>
-		<WhirlWindSkillChargingSpeedDecreasingTime>4.5</WhirlWindSkillChargingSpeedDecreasingTime>
+		<WhirlWindSkillChargingSpeedDecreasingTime>2.5</WhirlWindSkillChargingSpeedDecreasingTime>
 		<WhirlWindSkillChargingMovementSpeedIncreasingRatio>50.0</WhirlWindSkillChargingMovementSpeedIncreasingRatio>
 		<WhirlWindSkillRevCount>20.0</WhirlWindSkillRevCount>
 		<WhirlWindSkillDamageIncreasingRatio>1.0</WhirlWindSkillDamageIncreasingRatio>
@@ -122,7 +122,7 @@
 		<RushSkillBloodSuckingRatio>18.0</RushSkillBloodSuckingRatio>
 		<RushSkillCoolDownTime>12.0</RushSkillCoolDownTime>
 		<RushSkillDamageIncreasingRatio>2.0</RushSkillDamageIncreasingRatio>
-		<WhirlWindSkillChargingSpeedDecreasingTime>4.0</WhirlWindSkillChargingSpeedDecreasingTime>
+		<WhirlWindSkillChargingSpeedDecreasingTime>2.2</WhirlWindSkillChargingSpeedDecreasingTime>
 		<WhirlWindSkillChargingMovementSpeedIncreasingRatio>60.0</WhirlWindSkillChargingMovementSpeedIncreasingRatio>
 		<WhirlWindSkillRevCount>22.0</WhirlWindSkillRevCount>
 		<WhirlWindSkillDamageIncreasingRatio>2.0</WhirlWindSkillDamageIncreasingRatio>
@@ -144,7 +144,7 @@
 		<RushSkillBloodSuckingRatio>21.0</RushSkillBloodSuckingRatio>
 		<RushSkillCoolDownTime>11.0</RushSkillCoolDownTime>
 		<RushSkillDamageIncreasingRatio>5.0</RushSkillDamageIncreasingRatio>
-		<WhirlWindSkillChargingSpeedDecreasingTime>3.5</WhirlWindSkillChargingSpeedDecreasingTime>
+		<WhirlWindSkillChargingSpeedDecreasingTime>1.9</WhirlWindSkillChargingSpeedDecreasingTime>
 		<WhirlWindSkillChargingMovementSpeedIncreasingRatio>70.0</WhirlWindSkillChargingMovementSpeedIncreasingRatio>
 		<WhirlWindSkillRevCount>24.0</WhirlWindSkillRevCount>
 		<WhirlWindSkillDamageIncreasingRatio>5.0</WhirlWindSkillDamageIncreasingRatio>
@@ -166,7 +166,7 @@
 		<RushSkillBloodSuckingRatio>24.0</RushSkillBloodSuckingRatio>
 		<RushSkillCoolDownTime>10.0</RushSkillCoolDownTime>
 		<RushSkillDamageIncreasingRatio>10.0</RushSkillDamageIncreasingRatio>
-		<WhirlWindSkillChargingSpeedDecreasingTime>3.0</WhirlWindSkillChargingSpeedDecreasingTime>
+		<WhirlWindSkillChargingSpeedDecreasingTime>1.6</WhirlWindSkillChargingSpeedDecreasingTime>
 		<WhirlWindSkillChargingMovementSpeedIncreasingRatio>80.0</WhirlWindSkillChargingMovementSpeedIncreasingRatio>
 		<WhirlWindSkillRevCount>26.0</WhirlWindSkillRevCount>
 		<WhirlWindSkillDamageIncreasingRatio>10.0</WhirlWindSkillDamageIncreasingRatio>
@@ -188,7 +188,7 @@
 		<RushSkillBloodSuckingRatio>27.0</RushSkillBloodSuckingRatio>
 		<RushSkillCoolDownTime>9.0</RushSkillCoolDownTime>
 		<RushSkillDamageIncreasingRatio>20.0</RushSkillDamageIncreasingRatio>
-		<WhirlWindSkillChargingSpeedDecreasingTime>2.5</WhirlWindSkillChargingSpeedDecreasingTime>
+		<WhirlWindSkillChargingSpeedDecreasingTime>1.3</WhirlWindSkillChargingSpeedDecreasingTime>
 		<WhirlWindSkillChargingMovementSpeedIncreasingRatio>90.0</WhirlWindSkillChargingMovementSpeedIncreasingRatio>
 		<WhirlWindSkillRevCount>28.0</WhirlWindSkillRevCount>
 		<WhirlWindSkillDamageIncreasingRatio>20.0</WhirlWindSkillDamageIncreasingRatio>
@@ -210,7 +210,7 @@
 		<RushSkillBloodSuckingRatio>30.0</RushSkillBloodSuckingRatio>
 		<RushSkillCoolDownTime>8.0</RushSkillCoolDownTime>
 		<RushSkillDamageIncreasingRatio>40.0</RushSkillDamageIncreasingRatio>
-		<WhirlWindSkillChargingSpeedDecreasingTime>2.0</WhirlWindSkillChargingSpeedDecreasingTime>
+		<WhirlWindSkillChargingSpeedDecreasingTime>1.0</WhirlWindSkillChargingSpeedDecreasingTime>
 		<WhirlWindSkillChargingMovementSpeedIncreasingRatio>100.0</WhirlWindSkillChargingMovementSpeedIncreasingRatio>
 		<WhirlWindSkillRevCount>30.0</WhirlWindSkillRevCount>
 		<WhirlWindSkillDamageIncreasingRatio>40.0</WhirlWindSkillDamageIncreasingRatio>

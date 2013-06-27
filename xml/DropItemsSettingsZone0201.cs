@@ -12,7 +12,7 @@ public class DropItemsSettingsZone0201 {
     private DropItemsSettingsDropItemZone0201[] itemsField;
 
     /// <remarks/>
-    [System.Xml.Serialization.XmlElementAttribute("DropItemZone0101")]
+    [System.Xml.Serialization.XmlElementAttribute("DropItemZone0201")]
     public DropItemsSettingsDropItemZone0201[] Items {
         get {
             return this.itemsField;

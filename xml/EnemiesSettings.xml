@@ -5,7 +5,7 @@
 		<Description>퓨링 A1</Description>
 		<Type>1.0</Type>
 		<Level>1.0</Level>
-		<DefaultAttackDistance>9.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -23,11 +23,33 @@
 		<AIIndex></AIIndex>
 	</Enemy>
 	<Enemy>
+		<Name>MOB_A02</Name>
+		<Description>퓨링 거대</Description>
+		<Type>1.0</Type>
+		<Level>4.0</Level>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
+		<DefaultAttackAngle>180.0</DefaultAttackAngle>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
+		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
+		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
+		<MovingSpeed>0.0</MovingSpeed>
+		<MaxHP>24.0</MaxHP>
+		<AttackPoint>0.0</AttackPoint>
+		<BlockPoint>0.0</BlockPoint>
+		<AccuracyRate>1.0</AccuracyRate>
+		<ExperiencePoint>0.0</ExperiencePoint>
+		<CostumeRate>0.0</CostumeRate>
+		<CostumeIndex1></CostumeIndex1>
+		<CostumeIndex2></CostumeIndex2>
+		<DropItemIndex>0.0</DropItemIndex>
+		<AIIndex></AIIndex>
+	</Enemy>
+	<Enemy>
 		<Name>MOB_B01</Name>
 		<Description>스위퍼 A1</Description>
 		<Type>2.0</Type>
 		<Level>1.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -49,7 +71,7 @@
 		<Description>스위퍼 A2</Description>
 		<Type>2.0</Type>
 		<Level>1.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -71,7 +93,7 @@
 		<Description>스위퍼 A3</Description>
 		<Type>2.0</Type>
 		<Level>1.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -93,7 +115,7 @@
 		<Description>스위퍼 A4</Description>
 		<Type>2.0</Type>
 		<Level>1.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -115,7 +137,7 @@
 		<Description>스위퍼 B1</Description>
 		<Type>4.0</Type>
 		<Level>2.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -137,7 +159,7 @@
 		<Description>스위퍼 B2</Description>
 		<Type>4.0</Type>
 		<Level>2.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -159,7 +181,7 @@
 		<Description>스위퍼 B3</Description>
 		<Type>4.0</Type>
 		<Level>2.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -181,7 +203,7 @@
 		<Description>스위퍼 B4</Description>
 		<Type>4.0</Type>
 		<Level>2.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -203,7 +225,7 @@
 		<Description>스위퍼 C1</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -225,7 +247,7 @@
 		<Description>스위퍼 C2</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -247,7 +269,7 @@
 		<Description>스위퍼 C3</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -269,7 +291,7 @@
 		<Description>스위퍼 C4</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -291,7 +313,7 @@
 		<Description>스위퍼 D1</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -313,7 +335,7 @@
 		<Description>스위퍼 D2</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -335,7 +357,7 @@
 		<Description>스위퍼 D3</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -357,7 +379,7 @@
 		<Description>스위퍼 D4</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -379,7 +401,7 @@
 		<Description>스위퍼 E1</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -401,7 +423,7 @@
 		<Description>스위퍼 E2</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -423,7 +445,7 @@
 		<Description>스위퍼 E3</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -445,7 +467,7 @@
 		<Description>스위퍼 E4</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -467,7 +489,7 @@
 		<Description>스위퍼 F1</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -489,7 +511,7 @@
 		<Description>스위퍼 F2</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -511,7 +533,7 @@
 		<Description>스위퍼 F3</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -533,7 +555,7 @@
 		<Description>스위퍼 F4</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -555,7 +577,7 @@
 		<Description>스위퍼 보스1</Description>
 		<Type>2.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -577,7 +599,7 @@
 		<Description>스위퍼 보스2</Description>
 		<Type>2.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -599,7 +621,7 @@
 		<Description>스위퍼 보스3</Description>
 		<Type>2.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -621,7 +643,7 @@
 		<Description>스위퍼 보스4</Description>
 		<Type>2.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -643,7 +665,7 @@
 		<Description>스위퍼 보스5</Description>
 		<Type>2.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -665,7 +687,7 @@
 		<Description>일루미누스 (보스5 동반)</Description>
 		<Type>2.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -687,7 +709,7 @@
 		<Description>임포멘 A1</Description>
 		<Type>2.0</Type>
 		<Level>1.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -709,7 +731,7 @@
 		<Description>임포멘 A2</Description>
 		<Type>2.0</Type>
 		<Level>1.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -731,7 +753,7 @@
 		<Description>임포멘 A3</Description>
 		<Type>2.0</Type>
 		<Level>1.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -753,7 +775,7 @@
 		<Description>임포멘 A4</Description>
 		<Type>2.0</Type>
 		<Level>1.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -775,7 +797,7 @@
 		<Description>임포멘 B1</Description>
 		<Type>4.0</Type>
 		<Level>2.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -797,7 +819,7 @@
 		<Description>임포멘 B2</Description>
 		<Type>4.0</Type>
 		<Level>2.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -819,7 +841,7 @@
 		<Description>임포멘 B3</Description>
 		<Type>4.0</Type>
 		<Level>2.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -841,7 +863,7 @@
 		<Description>임포멘 B4</Description>
 		<Type>4.0</Type>
 		<Level>2.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -863,7 +885,7 @@
 		<Description>임포멘 B5</Description>
 		<Type>4.0</Type>
 		<Level>2.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -885,7 +907,7 @@
 		<Description>임포멘 부족장(1)</Description>
 		<Type>2.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -907,7 +929,7 @@
 		<Description>임포멘 부족장(2)</Description>
 		<Type>2.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -929,7 +951,7 @@
 		<Description>임포멘 족장</Description>
 		<Type>2.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -951,7 +973,7 @@
 		<Description>템푸스 (부족장1급)</Description>
 		<Type>2.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -973,7 +995,7 @@
 		<Description>월러스 A1</Description>
 		<Type>1.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -995,7 +1017,7 @@
 		<Description>월러스 A2</Description>
 		<Type>1.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1017,7 +1039,7 @@
 		<Description>월러스 A3</Description>
 		<Type>1.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1039,7 +1061,7 @@
 		<Description>월러스 A4</Description>
 		<Type>1.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1061,7 +1083,7 @@
 		<Description>월러스 보스1</Description>
 		<Type>2.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1083,7 +1105,7 @@
 		<Description>설원원숭이 A1</Description>
 		<Type>1.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1105,7 +1127,7 @@
 		<Description>설원원숭이 A2</Description>
 		<Type>1.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1127,7 +1149,7 @@
 		<Description>설원원숭이 A3</Description>
 		<Type>1.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1149,7 +1171,7 @@
 		<Description>설원원숭이 A4</Description>
 		<Type>1.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1171,7 +1193,7 @@
 		<Description>설원원숭이 B1</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1193,7 +1215,7 @@
 		<Description>설원원숭이 B2</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1215,7 +1237,7 @@
 		<Description>설원원숭이 B3</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1237,7 +1259,7 @@
 		<Description>설원원숭이 B4</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1259,7 +1281,7 @@
 		<Description>설원원숭이 보스1</Description>
 		<Type>2.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1281,7 +1303,7 @@
 		<Description>설원원숭이 보스2</Description>
 		<Type>2.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1303,7 +1325,7 @@
 		<Description>큐피티안 A1</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1325,7 +1347,7 @@
 		<Description>큐피티안 A2</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1347,7 +1369,7 @@
 		<Description>큐피티안 A3</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1369,7 +1391,7 @@
 		<Description>큐피티안 A4</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1391,7 +1413,7 @@
 		<Description>큐피티안 보스1</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1413,7 +1435,7 @@
 		<Description>마차도 (보스1급)</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1435,7 +1457,7 @@
 		<Description>라세타 A1</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1457,7 +1479,7 @@
 		<Description>라세타 A2</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1479,7 +1501,7 @@
 		<Description>라세타 A3</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1501,7 +1523,7 @@
 		<Description>라세타 A4</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1523,7 +1545,7 @@
 		<Description>탈파 A1</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1545,7 +1567,7 @@
 		<Description>탈파 A2</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1567,7 +1589,7 @@
 		<Description>탈파 A3</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1589,7 +1611,7 @@
 		<Description>탈파 A4</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1611,7 +1633,7 @@
 		<Description>탈파 A5</Description>
 		<Type>1.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1633,7 +1655,7 @@
 		<Description>탈파 보스1</Description>
 		<Type>2.0</Type>
 		<Level>3.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
@@ -1655,7 +1677,7 @@
 		<Description>엘리트 임포멘</Description>
 		<Type>1.0</Type>
 		<Level>5.0</Level>
-		<DefaultAttackDistance>10.0</DefaultAttackDistance>
+		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
 		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>

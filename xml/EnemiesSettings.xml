@@ -906,15 +906,15 @@
 		<Name>MOB_C10</Name>
 		<Description>임포멘 부족장(1)</Description>
 		<Type>2.0</Type>
-		<Level>5.0</Level>
+		<Level>3.0</Level>
 		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>320.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<MaxHP>600.0</MaxHP>
+		<AttackPoint>18.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>300.0</ExperiencePoint>
@@ -922,7 +922,7 @@
 		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_BOS</DropItemIndex>
-		<AIIndex>MAI_001</AIIndex>
+		<AIIndex>MAI_002</AIIndex>
 	</Enemy>
 	<Enemy>
 		<Name>MOB_C11</Name>
@@ -931,12 +931,12 @@
 		<Level>5.0</Level>
 		<DefaultAttackDistance>4.8</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>800.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<MaxHP>1000.0</MaxHP>
+		<AttackPoint>26.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>300.0</ExperiencePoint>
@@ -944,7 +944,7 @@
 		<CostumeIndex1>COB_C01</CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_BOS</DropItemIndex>
-		<AIIndex></AIIndex>
+		<AIIndex>MAI_002</AIIndex>
 	</Enemy>
 	<Enemy>
 		<Name>MOB_C12</Name>
@@ -972,15 +972,15 @@
 		<Name>MOB_C13</Name>
 		<Description>템푸스 (부족장1급)</Description>
 		<Type>2.0</Type>
-		<Level>5.0</Level>
-		<DefaultAttackDistance>4.8</DefaultAttackDistance>
+		<Level>3.0</Level>
+		<DefaultAttackDistance>15.0</DefaultAttackDistance>
 		<DefaultAttackAngle>180.0</DefaultAttackAngle>
-		<DefaultAttackSpeed1>0.6</DefaultAttackSpeed1>
+		<DefaultAttackSpeed1>1.0</DefaultAttackSpeed1>
 		<DefaultAttackSpeed2>0.0</DefaultAttackSpeed2>
 		<DefaultAttackSpeed3>0.0</DefaultAttackSpeed3>
 		<MovingSpeed>5.0</MovingSpeed>
-		<MaxHP>320.0</MaxHP>
-		<AttackPoint>10.0</AttackPoint>
+		<MaxHP>600.0</MaxHP>
+		<AttackPoint>18.0</AttackPoint>
 		<BlockPoint>0.0</BlockPoint>
 		<AccuracyRate>1.0</AccuracyRate>
 		<ExperiencePoint>300.0</ExperiencePoint>
@@ -988,7 +988,7 @@
 		<CostumeIndex1></CostumeIndex1>
 		<CostumeIndex2></CostumeIndex2>
 		<DropItemIndex>DRP_BOS</DropItemIndex>
-		<AIIndex></AIIndex>
+		<AIIndex>MAI_001</AIIndex>
 	</Enemy>
 	<Enemy>
 		<Name>MOB_D01</Name>

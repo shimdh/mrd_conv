@@ -6,7 +6,8 @@
 		<Level>1.0</Level>
 		<ChargedEXP>1.0</ChargedEXP>
 		<IconName></IconName>
-		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+		<Description>인간의 폭력적인 성향이 마이어드에 만들어낸 생명체.
+이것을 사용하면 무기가 점점 자라나게 된다.</Description>
 	</ItemWeaponStrengthenStone>
 	<ItemWeaponStrengthenStone>
 		<Index>WUS_002</Index>
@@ -14,7 +15,8 @@
 		<Level>2.0</Level>
 		<ChargedEXP>4.0</ChargedEXP>
 		<IconName></IconName>
-		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+		<Description>인간의 폭력적인 성향이 마이어드에 만들어낸 생명체.
+이것을 사용하면 무기가 점점 자라나게 된다.</Description>
 	</ItemWeaponStrengthenStone>
 	<ItemWeaponStrengthenStone>
 		<Index>WUS_003</Index>
@@ -22,7 +24,8 @@
 		<Level>3.0</Level>
 		<ChargedEXP>10.0</ChargedEXP>
 		<IconName></IconName>
-		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+		<Description>인간의 폭력적인 성향이 마이어드에 만들어낸 생명체.
+이것을 사용하면 무기가 점점 자라나게 된다.</Description>
 	</ItemWeaponStrengthenStone>
 	<ItemWeaponStrengthenStone>
 		<Index>WUS_004</Index>
@@ -30,7 +33,8 @@
 		<Level>4.0</Level>
 		<ChargedEXP>30.0</ChargedEXP>
 		<IconName></IconName>
-		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+		<Description>인간의 폭력적인 성향이 마이어드에 만들어낸 생명체.
+이것을 사용하면 무기가 점점 자라나게 된다.</Description>
 	</ItemWeaponStrengthenStone>
 	<ItemWeaponStrengthenStone>
 		<Index>WUS_005</Index>
@@ -38,7 +42,8 @@
 		<Level>5.0</Level>
 		<ChargedEXP>100.0</ChargedEXP>
 		<IconName></IconName>
-		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+		<Description>인간의 폭력적인 성향이 마이어드에 만들어낸 생명체.
+이것을 사용하면 무기가 점점 자라나게 된다.</Description>
 	</ItemWeaponStrengthenStone>
 	<ItemWeaponStrengthenStone>
 		<Index>WUS_006</Index>
@@ -46,7 +51,8 @@
 		<Level>6.0</Level>
 		<ChargedEXP>430.0</ChargedEXP>
 		<IconName></IconName>
-		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+		<Description>인간의 폭력적인 성향이 마이어드에 만들어낸 생명체.
+이것을 사용하면 무기가 점점 자라나게 된다.</Description>
 	</ItemWeaponStrengthenStone>
 	<ItemWeaponStrengthenStone>
 		<Index>WUS_007</Index>
@@ -54,7 +60,8 @@
 		<Level>7.0</Level>
 		<ChargedEXP>1000.0</ChargedEXP>
 		<IconName></IconName>
-		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+		<Description>인간의 폭력적인 성향이 마이어드에 만들어낸 생명체.
+이것을 사용하면 무기가 점점 자라나게 된다.</Description>
 	</ItemWeaponStrengthenStone>
 	<ItemWeaponStrengthenStone>
 		<Index>WUS_008</Index>
@@ -62,7 +69,8 @@
 		<Level>8.0</Level>
 		<ChargedEXP>3000.0</ChargedEXP>
 		<IconName></IconName>
-		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+		<Description>인간의 폭력적인 성향이 마이어드에 만들어낸 생명체.
+이것을 사용하면 무기가 점점 자라나게 된다.</Description>
 	</ItemWeaponStrengthenStone>
 	<ItemWeaponStrengthenStone>
 		<Index>WUS_009</Index>
@@ -70,7 +78,8 @@
 		<Level>9.0</Level>
 		<ChargedEXP>8600.0</ChargedEXP>
 		<IconName></IconName>
-		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+		<Description>인간의 폭력적인 성향이 마이어드에 만들어낸 생명체.
+이것을 사용하면 무기가 점점 자라나게 된다.</Description>
 	</ItemWeaponStrengthenStone>
 	<ItemWeaponStrengthenStone>
 		<Index>WUS_010</Index>
@@ -78,6 +87,7 @@
 		<Level>10.0</Level>
 		<ChargedEXP>30000.0</ChargedEXP>
 		<IconName></IconName>
-		<Description>사용하면 무기의 경험치가 증가한다.</Description>
+		<Description>인간의 폭력적인 성향이 마이어드에 만들어낸 생명체.
+이것을 사용하면 무기가 점점 자라나게 된다.</Description>
 	</ItemWeaponStrengthenStone>
 </ItemWeaponStrengthenStonesSettings>

@@ -1,39 +1,59 @@
 ﻿<?xml version="1.0" ?>
 <ItemEtcsSettings>
 	<ItemEtc>
-		<Index>ETC_001</Index>
-		<Name>휴대폰</Name>
+		<Index>ETC_000</Index>
+		<Name>환상석</Name>
 		<IconName></IconName>
-		<Description>휴대폰. 이 곳에서는 먹통이다.</Description>
+		<Description>캐쉬. 아이템으로 등록해달라구 해서 등록해놨음.</Description>
+	</ItemEtc>
+	<ItemEtc>
+		<Index>ETC_001</Index>
+		<Name>핸드폰</Name>
+		<IconName></IconName>
+		<Description>핸드폰.
+이 곳에서는 먹통이다.</Description>
 	</ItemEtc>
 	<ItemEtc>
 		<Index>ETC_002</Index>
-		<Name>오리 나팔</Name>
+		<Name>개조된 핸드폰</Name>
 		<IconName></IconName>
-		<Description>우스꽝스러운 모양의 나팔. 레오가 준 우정의 징표</Description>
+		<Description>우스꽝스러운 모양의 핸드폰.
+레오가 개조를 해줘서 이 마이어드란 곳에서 사용할 수 있게 되었다.
+레오는 꼭 이런 모양으로 개조했어야만 했을까?</Description>
 	</ItemEtc>
 	<ItemEtc>
 		<Index>ETC_003</Index>
-		<Name>찌그러진 오리 나팔</Name>
+		<Name>오리 나팔</Name>
 		<IconName></IconName>
-		<Description>우스꽝스러운 모양의 나팔. 레오가 준 우정의 징표. 찌그러져 있다.</Description>
+		<Description>우스꽝스러운 모양의 나팔.
+레오를 구해줬을 때 우정의 징표라면서 내게 주었다.
+끝부분에 거칠게 부러진 흔적이 있는데… 원래 용도가 나팔인 것 같지는 않다.</Description>
 	</ItemEtc>
 	<ItemEtc>
 		<Index>ETC_004</Index>
-		<Name>블랙스톤</Name>
+		<Name>찌그러진 오리 나팔</Name>
 		<IconName></IconName>
-		<Description>깃털이 달린 보석. 언제부터인지 내 주머니 속에 있었다.</Description>
+		<Description>우스꽝스러운 모양의 나팔.
+레오를 구해줬을 때 우정의 징표라면서 내게 주었다.
+끝부분에 거칠게 부러진 흔적이 있는데… 원래 용도가 나팔인 것 같지는 않다.
+찌그러져서 잘 불어지지 않는다.</Description>
 	</ItemEtc>
 	<ItemEtc>
 		<Index>ETC_005</Index>
-		<Name>잡쓰레기</Name>
+		<Name>블랙스톤</Name>
 		<IconName></IconName>
-		<Description>잡쓰레기</Description>
+		<Description>검은 빛이 나는 보석.
+끝 부분에 깃털이 달려있다.
+언제부터인지 내 주머니 속에 있었다.</Description>
 	</ItemEtc>
 	<ItemEtc>
 		<Index>ETC_006</Index>
-		<Name>환상석</Name>
+		<Name>금이 간 블랙스톤</Name>
 		<IconName></IconName>
-		<Description>캐쉬</Description>
+		<Description>타라가 한동안 갖고 있었던 내 블랙스톤.
+부수려고 충격을 주었을 때의 흔적으로 금이 가 있다.
+내 블랙스톤을 다시 찾아서 인간 세계로 돌아갈 수 있는 방법은 생겼지만…
+타라를 다시 찾을 수 있는 방법이 사라져 버렸다.
+이걸 부수면 나는 인간 세계로 돌아갈 수 있겠지만 다시 타라를 찾을 수는 없겠지…</Description>
 	</ItemEtc>
 </ItemEtcsSettings>

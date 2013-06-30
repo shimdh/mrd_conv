@@ -38,12 +38,13 @@
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_C01</Index>
-		<Name>임포멘의 검</Name>
+		<Name>임포멘의 단검</Name>
 		<WearLocation>1.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
 		<IconName>cos_impomen_weapon</IconName>
-		<Description>임포멘들의 무기</Description>
+		<Description>임포멘들이 주로 쓰는 무기.
+타라가 준 무기처럼 붉은 눈동자가 달려 있다.</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_C02</Index>
@@ -52,7 +53,8 @@
 		<HelmetType>1.0</HelmetType>
 		<Cash>0.0</Cash>
 		<IconName>cos_impomen_helmet</IconName>
-		<Description>임포멘들이 쓰고 다니는 투구</Description>
+		<Description>커다란 코가 있고 넝마같은 모자를 쓴 모습의 가면.
+임포멘들에게 얻을 수 있다.</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_C03</Index>
@@ -61,7 +63,8 @@
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
 		<IconName>cos_impomen_armor</IconName>
-		<Description>임포멘들이 입고 다니는 갑옷</Description>
+		<Description>검은 빛의 피부에 넝마같은 하의.
+임포멘들에게 얻을 수 있다.</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_C04</Index>
@@ -70,7 +73,9 @@
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
 		<IconName>cos_impomen_cloak</IconName>
-		<Description>임포멘들이 걸치는 망토</Description>
+		<Description>임포멘들이 들고 다니는 방패.
+방어 능력은 없으며 등에 장식용으로 맬 수 있다.
+임포멘들에게 얻을 수 있다.</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_D01</Index>
@@ -79,7 +84,8 @@
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
 		<IconName>cos_walus_weapon</IconName>
-		<Description>월러스들의 무기</Description>
+		<Description>월러스들이 사용하는 삼지창.
+타라가 준 무기처럼 붉은 눈동자가 달려 있다.</Description>
 	</ItemCostume>
 	<ItemCostume>
 		<Index>COS_D02</Index>

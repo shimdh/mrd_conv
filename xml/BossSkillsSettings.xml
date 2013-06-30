@@ -6,7 +6,7 @@
 		<SkillType>0.0</SkillType>
 		<SkillCheckingDistance>100.0</SkillCheckingDistance>
 		<CoolDownTime>10.0</CoolDownTime>
-		<CastingTime>3.0</CastingTime>
+		<CastingTime>1.0</CastingTime>
 		<DamageRate>0.0</DamageRate>
 		<DamageMovingSpeed>0.0</DamageMovingSpeed>
 		<DamageAreaWidth>0.0</DamageAreaWidth>
@@ -33,15 +33,15 @@
 		<Description>광역
 몬스터 위치 1개</Description>
 		<SkillType>2.0</SkillType>
-		<SkillCheckingDistance>20.0</SkillCheckingDistance>
-		<CoolDownTime>10.0</CoolDownTime>
-		<CastingTime>4.0</CastingTime>
-		<DamageRate>100.0</DamageRate>
+		<SkillCheckingDistance>8.0</SkillCheckingDistance>
+		<CoolDownTime>3.0</CoolDownTime>
+		<CastingTime>3.0</CastingTime>
+		<DamageRate>300.0</DamageRate>
 		<DamageMovingSpeed>0.0</DamageMovingSpeed>
-		<DamageAreaWidth>5.0</DamageAreaWidth>
-		<DamageAreaLength>20.0</DamageAreaLength>
-		<DamageAreaDurationTime>1.0</DamageAreaDurationTime>
-		<UnprotectedTime>5.0</UnprotectedTime>
+		<DamageAreaWidth>20.0</DamageAreaWidth>
+		<DamageAreaLength>0.0</DamageAreaLength>
+		<DamageAreaDurationTime>0.0</DamageAreaDurationTime>
+		<UnprotectedTime>3.0</UnprotectedTime>
 	</BossSkill>
 	<BossSkill>
 		<Index>MSK_004</Index>
@@ -153,14 +153,14 @@
 몬스터 기준 1개</Description>
 		<SkillType>10.0</SkillType>
 		<SkillCheckingDistance>20.0</SkillCheckingDistance>
-		<CoolDownTime>10.0</CoolDownTime>
-		<CastingTime>4.0</CastingTime>
-		<DamageRate>100.0</DamageRate>
-		<DamageMovingSpeed>5.0</DamageMovingSpeed>
+		<CoolDownTime>3.0</CoolDownTime>
+		<CastingTime>3.0</CastingTime>
+		<DamageRate>300.0</DamageRate>
+		<DamageMovingSpeed>7.0</DamageMovingSpeed>
 		<DamageAreaWidth>5.0</DamageAreaWidth>
 		<DamageAreaLength>5.0</DamageAreaLength>
 		<DamageAreaDurationTime>10.0</DamageAreaDurationTime>
-		<UnprotectedTime>5.0</UnprotectedTime>
+		<UnprotectedTime>3.0</UnprotectedTime>
 	</BossSkill>
 	<BossSkill>
 		<Index>MSK_012</Index>

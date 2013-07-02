@@ -75,6 +75,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "itemCostumesSettings.py",
+			"settings":
+			{
+				"buffer_size": 1984,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/c/Users/shimdh/Documents/PythonProjects/mrd_conv/xml/ItemCostumesSettings.cs",
+			"settings":
+			{
+				"buffer_size": 3460,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -113,8 +129,6 @@
 	"file_history":
 	[
 		"/c/Users/shimdh/Documents/PythonProjects/mrd_conv/xml/ItemCostumesSettings.cs",
-		"/c/Users/shimdh/Documents/PythonProjects/mrd_conv/xml/ItemCostumesSettings.xml",
-		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/itemCostumesSettings.py",
 		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_saved.py",
 		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_slots.py",
 		"/C/Users/shimdh/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
@@ -172,8 +186,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "itemCostumesSettings.py",
+					"settings":
+					{
+						"buffer_size": 1984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/c/Users/shimdh/Documents/PythonProjects/mrd_conv/xml/ItemCostumesSettings.cs",
+					"settings":
+					{
+						"buffer_size": 3460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

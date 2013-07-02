@@ -112,6 +112,9 @@
 	},
 	"file_history":
 	[
+		"/c/Users/shimdh/Documents/PythonProjects/mrd_conv/xml/ItemCostumesSettings.cs",
+		"/c/Users/shimdh/Documents/PythonProjects/mrd_conv/xml/ItemCostumesSettings.xml",
+		"/C/Users/shimdh/Documents/PythonProjects/mrd_conv/itemCostumesSettings.py",
 		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_saved.py",
 		"/C/Users/shimdh/Documents/PythonProjects/mrd_server/view_slots.py",
 		"/C/Users/shimdh/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
@@ -125,7 +128,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 90.0,
+		"height": 0.0,
 		"where_history":
 		[
 		]
@@ -135,6 +138,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"string",
+			"Form=System.Xml.Schema.XmlSchemaForm.Unqualified",
+			"Form",
+			"partial",
 			"tmp_piece",
 			"puzzle_index",
 			"find_puzzle_piece",

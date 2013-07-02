@@ -8,9 +8,9 @@
 [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true)]
 [System.Xml.Serialization.XmlRootAttribute(Namespace="", IsNullable=false)]
 public class ItemCostumesSettings {
-
+    
     private ItemCostumesSettingsItemCostume[] itemsField;
-
+    
     /// <remarks/>
     [System.Xml.Serialization.XmlElementAttribute("ItemCostume")]
     public ItemCostumesSettingsItemCostume[] Items {
@@ -30,21 +30,23 @@ public class ItemCostumesSettings {
 [System.ComponentModel.DesignerCategoryAttribute("code")]
 [System.Xml.Serialization.XmlTypeAttribute(AnonymousType=true)]
 public class ItemCostumesSettingsItemCostume : XmlData {
-
+    
     private string indexField;
-
+    
     private string nameField;
-
+    
+    private string costumeBaseIndexField;
+    
     private float wearLocationField;
-
+    
     private float helmetTypeField;
-
+    
     private float cashField;
-
+    
     private string iconNameField;
-
+    
     private string descriptionField;
-
+    
     /// <remarks/>
     [System.Xml.Serialization.XmlElementAttribute("Index")]
     public string Index {
@@ -55,7 +57,7 @@ public class ItemCostumesSettingsItemCostume : XmlData {
             this.indexField = value;
         }
     }
-
+    
     /// <remarks/>
     [System.Xml.Serialization.XmlElementAttribute("Name")]
     public string Name {
@@ -66,7 +68,18 @@ public class ItemCostumesSettingsItemCostume : XmlData {
             this.nameField = value;
         }
     }
-
+    
+    /// <remarks/>
+    [System.Xml.Serialization.XmlElementAttribute("CostumeBaseIndex")]
+    public string CostumeBaseIndex {
+        get {
+            return this.costumeBaseIndexField;
+        }
+        set {
+            this.costumeBaseIndexField = value;
+        }
+    }
+    
     /// <remarks/>
     [System.Xml.Serialization.XmlElementAttribute("WearLocation")]
     public float WearLocation {
@@ -77,7 +90,7 @@ public class ItemCostumesSettingsItemCostume : XmlData {
             this.wearLocationField = value;
         }
     }
-
+    
     /// <remarks/>
     [System.Xml.Serialization.XmlElementAttribute("HelmetType")]
     public float HelmetType {
@@ -88,7 +101,7 @@ public class ItemCostumesSettingsItemCostume : XmlData {
             this.helmetTypeField = value;
         }
     }
-
+    
     /// <remarks/>
     [System.Xml.Serialization.XmlElementAttribute("Cash")]
     public float Cash {
@@ -99,7 +112,7 @@ public class ItemCostumesSettingsItemCostume : XmlData {
             this.cashField = value;
         }
     }
-
+    
     /// <remarks/>
     [System.Xml.Serialization.XmlElementAttribute("IconName")]
     public string IconName {
@@ -110,7 +123,7 @@ public class ItemCostumesSettingsItemCostume : XmlData {
             this.iconNameField = value;
         }
     }
-
+    
     /// <remarks/>
     [System.Xml.Serialization.XmlElementAttribute("Description")]
     public string Description {

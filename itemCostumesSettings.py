@@ -32,7 +32,7 @@ for s in wbItems.sheets():
         else:
             for col in range(s.ncols):
                 # values.append(str(s.cell(row, col).value))
-                if col in (1, 6):
+                if col in (1, 7):
                     values.append(unicode(s.cell(row, col).value))
                     if col == 1:
                         ITEMS_DESCRIPTION.append(unicode(s.cell(row, col).value))

@@ -3,6 +3,7 @@
 	<ItemCostume>
 		<Index>COS_001</Index>
 		<Name>기본 검</Name>
+		<CostumeBaseIndex>COB_001</CostumeBaseIndex>
 		<WearLocation>1.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -12,6 +13,7 @@
 	<ItemCostume>
 		<Index>COS_002</Index>
 		<Name>기본 머리</Name>
+		<CostumeBaseIndex>COB_002</CostumeBaseIndex>
 		<WearLocation>2.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -21,6 +23,7 @@
 	<ItemCostume>
 		<Index>COS_003</Index>
 		<Name>기본 몸</Name>
+		<CostumeBaseIndex>COB_003</CostumeBaseIndex>
 		<WearLocation>3.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -30,6 +33,7 @@
 	<ItemCostume>
 		<Index>COS_004</Index>
 		<Name>기본 망토 없음</Name>
+		<CostumeBaseIndex>COB_004</CostumeBaseIndex>
 		<WearLocation>4.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -39,6 +43,7 @@
 	<ItemCostume>
 		<Index>COS_C01</Index>
 		<Name>임포멘의 단검</Name>
+		<CostumeBaseIndex>COB_C01</CostumeBaseIndex>
 		<WearLocation>1.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -49,6 +54,7 @@
 	<ItemCostume>
 		<Index>COS_C02</Index>
 		<Name>임포멘의 가면</Name>
+		<CostumeBaseIndex>COB_C01</CostumeBaseIndex>
 		<WearLocation>2.0</WearLocation>
 		<HelmetType>1.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -59,6 +65,7 @@
 	<ItemCostume>
 		<Index>COS_C03</Index>
 		<Name>임포멘의 변장옷</Name>
+		<CostumeBaseIndex>COB_C01</CostumeBaseIndex>
 		<WearLocation>3.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -69,6 +76,7 @@
 	<ItemCostume>
 		<Index>COS_C04</Index>
 		<Name>임포멘의 방패</Name>
+		<CostumeBaseIndex>COB_C01</CostumeBaseIndex>
 		<WearLocation>4.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -80,6 +88,7 @@
 	<ItemCostume>
 		<Index>COS_D01</Index>
 		<Name>월러스의 창</Name>
+		<CostumeBaseIndex>COB_D01</CostumeBaseIndex>
 		<WearLocation>1.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -90,6 +99,7 @@
 	<ItemCostume>
 		<Index>COS_D02</Index>
 		<Name>월러스의 가면</Name>
+		<CostumeBaseIndex>COB_D01</CostumeBaseIndex>
 		<WearLocation>2.0</WearLocation>
 		<HelmetType>1.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -99,6 +109,7 @@
 	<ItemCostume>
 		<Index>COS_D03</Index>
 		<Name>월러스의 변장옷</Name>
+		<CostumeBaseIndex>COB_D01</CostumeBaseIndex>
 		<WearLocation>3.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -108,6 +119,7 @@
 	<ItemCostume>
 		<Index>COS_D04</Index>
 		<Name>월러스의 방패</Name>
+		<CostumeBaseIndex>COB_D01</CostumeBaseIndex>
 		<WearLocation>4.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -117,6 +129,7 @@
 	<ItemCostume>
 		<Index>COS_C51</Index>
 		<Name>엘리트 임포멘의 검</Name>
+		<CostumeBaseIndex>COB_C51</CostumeBaseIndex>
 		<WearLocation>1.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -126,6 +139,7 @@
 	<ItemCostume>
 		<Index>COS_C52</Index>
 		<Name>엘리트 임포멘의 가면</Name>
+		<CostumeBaseIndex>COB_C51</CostumeBaseIndex>
 		<WearLocation>2.0</WearLocation>
 		<HelmetType>1.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -135,6 +149,7 @@
 	<ItemCostume>
 		<Index>COS_C53</Index>
 		<Name>엘리트 임포멘의 변장옷</Name>
+		<CostumeBaseIndex>COB_C51</CostumeBaseIndex>
 		<WearLocation>3.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -144,6 +159,7 @@
 	<ItemCostume>
 		<Index>COS_C54</Index>
 		<Name>엘리트 임포멘의 방패</Name>
+		<CostumeBaseIndex>COB_C51</CostumeBaseIndex>
 		<WearLocation>4.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>0.0</Cash>
@@ -153,6 +169,7 @@
 	<ItemCostume>
 		<Index>COS_X01</Index>
 		<Name>견습 기사의 검</Name>
+		<CostumeBaseIndex>COB_X01</CostumeBaseIndex>
 		<WearLocation>1.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>10.0</Cash>
@@ -162,6 +179,7 @@
 	<ItemCostume>
 		<Index>COS_X02</Index>
 		<Name>견습 기사의 투구</Name>
+		<CostumeBaseIndex>COB_X01</CostumeBaseIndex>
 		<WearLocation>2.0</WearLocation>
 		<HelmetType>2.0</HelmetType>
 		<Cash>10.0</Cash>
@@ -171,6 +189,7 @@
 	<ItemCostume>
 		<Index>COS_X03</Index>
 		<Name>견습 기사의 갑옷</Name>
+		<CostumeBaseIndex>COB_X01</CostumeBaseIndex>
 		<WearLocation>3.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>10.0</Cash>
@@ -180,6 +199,7 @@
 	<ItemCostume>
 		<Index>COS_X04</Index>
 		<Name>견습 기사의 망토</Name>
+		<CostumeBaseIndex>COB_X01</CostumeBaseIndex>
 		<WearLocation>4.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>10.0</Cash>
@@ -189,6 +209,7 @@
 	<ItemCostume>
 		<Index>COS_X05</Index>
 		<Name>메이드의 빗자루</Name>
+		<CostumeBaseIndex>COB_X05</CostumeBaseIndex>
 		<WearLocation>1.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>15.0</Cash>
@@ -198,6 +219,7 @@
 	<ItemCostume>
 		<Index>COS_X06</Index>
 		<Name>메이드의 머리 장식</Name>
+		<CostumeBaseIndex>COB_X05</CostumeBaseIndex>
 		<WearLocation>2.0</WearLocation>
 		<HelmetType>2.0</HelmetType>
 		<Cash>15.0</Cash>
@@ -207,6 +229,7 @@
 	<ItemCostume>
 		<Index>COS_X07</Index>
 		<Name>메이드의 옷</Name>
+		<CostumeBaseIndex>COB_X05</CostumeBaseIndex>
 		<WearLocation>3.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>15.0</Cash>
@@ -216,6 +239,7 @@
 	<ItemCostume>
 		<Index>COS_X08</Index>
 		<Name>메이드의 리본</Name>
+		<CostumeBaseIndex>COB_X05</CostumeBaseIndex>
 		<WearLocation>4.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>15.0</Cash>
@@ -225,6 +249,7 @@
 	<ItemCostume>
 		<Index>COS_X09</Index>
 		<Name>싱싱한 연어</Name>
+		<CostumeBaseIndex>COB_X09</CostumeBaseIndex>
 		<WearLocation>1.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>20.0</Cash>
@@ -234,6 +259,7 @@
 	<ItemCostume>
 		<Index>COS_X10</Index>
 		<Name>곰돌이 모자</Name>
+		<CostumeBaseIndex>COB_X09</CostumeBaseIndex>
 		<WearLocation>2.0</WearLocation>
 		<HelmetType>2.0</HelmetType>
 		<Cash>20.0</Cash>
@@ -243,6 +269,7 @@
 	<ItemCostume>
 		<Index>COS_X11</Index>
 		<Name>곰돌이 옷</Name>
+		<CostumeBaseIndex>COB_X09</CostumeBaseIndex>
 		<WearLocation>3.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>20.0</Cash>
@@ -252,6 +279,7 @@
 	<ItemCostume>
 		<Index>COS_X12</Index>
 		<Name>꿀단지</Name>
+		<CostumeBaseIndex>COB_X09</CostumeBaseIndex>
 		<WearLocation>4.0</WearLocation>
 		<HelmetType>0.0</HelmetType>
 		<Cash>20.0</Cash>
